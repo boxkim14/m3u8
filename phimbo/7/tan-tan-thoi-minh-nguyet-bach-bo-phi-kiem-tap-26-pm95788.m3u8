@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:10
+https://8cinema.xyz/9eab96ecdc4bcc4a1085fcea1ca54f72.html
+#EXTINF:10
+https://8cinema.xyz/37c4ae9e81d2cb56acb5f2fef2ff0091.html
+#EXTINF:10
+https://8cinema.xyz/0d60abe29e3fcee19c9d56628245fad3.html
+#EXTINF:10
+https://8cinema.xyz/34cc690cc282f3274ca5df351ed08df9.html
+#EXTINF:10
+https://8cinema.xyz/09dd08fd9a77020734771259a5a41ef5.html
+#EXTINF:1.666667
+https://8cinema.xyz/4724f3df3227d56eb6b6286ea9d73c8c.html
+#EXT-X-ENDLIST
