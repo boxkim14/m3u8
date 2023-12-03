@@ -1,4 +1,9 @@
 Music,https://www.fshare.vn/folder/VCP9VF553NUX?fbclid=IwAR2hBAqQ4f4Gujf3VQGWTnJOXL1X4u54WgmJLo_OHmnqhQEeLf1spkVOfpQ
+HDVN-SDR,https://www.fshare.vn/folder/RTIVJT674R6D
+HDVN-Movie&TV-Meo,https://www.fshare.vn/folder/4UNH51EOWAF1
+HDVN-PhimMoi,https://www.fshare.vn/folder/WQP2UWOCH4VP
+HDVN-TongKho,https://www.fshare.vn/folder/HC2W4K72FOTW
+HDVN-PhimBomTan,https://www.fshare.vn/folder/TNH9JNDLLXMZ
 Star Trek,https://www.fshare.vn/folder/83EHWU8DTTFB
 Anime-Ho Thai Duong,https://www.fshare.vn/folder/NV899ACJING1
 Anime-Khanh,https://www.fshare.vn/folder/6D1TR1NV5UJV
