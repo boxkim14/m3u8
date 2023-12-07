@@ -12,6 +12,7 @@ Pixar-HL,https://www.fshare.vn/folder/AXM1XBKKWKVE553?token=1690039107
 Stphen chow,https://www.fshare.vn/folder/MYQGR8IOLLZV?token=1688215706
 Disney,https://www.fshare.vn/folder/OUZ5HPRHUJV
 Kamenrider,https://www.fshare.vn/folder/TNH9JNDLLXMZ
+KPhung,https://www.fshare.vn/folder/N2ZLOCFVRZFV
 HLink-High Kick,https://www.fshare.vn/folder/2VYVCQDDH1DI?token=1688215607
 Hieuit-phim 4k,https://www.fshare.vn/folder/95LDRGNQEKBL
 HieuIt-phim1080,https://www.fshare.vn/folder/WF4Y8YU4R8IL
@@ -35,4 +36,4 @@ z.Folder2,https://www.fshare.vn/folder/ESGPUUHIWPDH
 z.Defl,https://www.fshare.vn/folder/DI5VPOXG8F6A
 z.ThienDia,https://www.fshare.vn/folder/ACKJQTPP6E9V
 z.Han,https://www.fshare.vn/folder/T8F7GD7NERFHUJW
-z.JHD,https://www.fshare.vn/folder/KF8IPNWAF2Q8?token=1701965488
+z.JHD,https://www.fshare.vn/folder/KF8IPNWAF2Q8
