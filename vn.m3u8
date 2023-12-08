@@ -1,5 +1,5 @@
-#EXTM3U 787
-#DATE 0->787 - OK: 787 Risk: 0 Fail: 301
+#EXTM3U 791
+#DATE 0->791 - OK: 791 Risk: 0 Fail: 412
 #EXTINF:0 group-title="Foreign",$ Animal Planet HD_kkk.m3u?dl=0-231130-069.done
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:0 group-title="Foreign",$ Animax HD_kkk.m3u?dl=0-231130-067.done
@@ -24,14 +24,16 @@ https://hqth.me/hbo?/live=msky-live/live_kplus/hbo.smil/manifest.mpd|user-agent=
 https://dl.dropboxusercontent.com/s/hbxnyii5eyfvwkq/getlink/mytv/vtv5tnb_hd/vtv5-tnb.m3u8|user-agent="Khanggne"
 #EXTINF:0 group-title="Foreign",$ VTV5 Tây Nguyên_kkk.m3u?dl=0-231130-011.done
 https://dl.dropboxusercontent.com/s/empgge02vawn930/getlink/tv360_vthanh/vtv5tn_hd/vtv5tn.m3u8?id=vtv5-tn-hd|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",[BTV5|Thể Thao Tổng Hợp] - Vprime 3X3 Invitation Cup 2023 Ngày 2_vthanhtivi.pw-231130-001.done
-https://code.vthanhtivi.pw/getlink/onlive/onsportsact/90724.m3u8
+#EXTINF:0 group-title="Foreign",ディズニージュニア / Disney Junior_vthanhtivi.pw-231208-062.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:0 group-title="Foreign",Aljazeera International HD_vietngatv.m3u-231124-084.done
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="Foreign",Aljazeera International HD_vietngatv.m3u-231130-082.done
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTINF:0 group-title="Foreign",Animal Kids_47shopiptvbk-231130-158.done
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 group-title="Foreign",ANIMAL PLANET_-231208-118.done
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 #EXTINF:0 group-title="Foreign",Animal Planet_kiptv.m3u-231124-072.done
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ap.smil/manifest.mpd|user-agent=ExoPlayerLib/2.3.4
 #EXTINF:0 group-title="Foreign",Animal Planet_vietstv-231130-032.done
@@ -56,12 +58,20 @@ https://code.vthanhtivi.pw/getlink/tv360/lsTG1I3YSG7iMbLd7xY5kw/1701383598/215/p
 https://code.vthanhtivi.pw/getlink/tv360/Q4b2Va_UCRWf6Nv1BzeYwQ/1701370357/215/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTINF:0 group-title="Foreign",Asian Food Network_vthanhtivi.pw-231130-101.done
 https://code.vthanhtivi.pw/getlink/tv360/b23F55DMkKpNr1I1wzqzFA/1701362917/215/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",Asian Food Network_vthanhtivi.pw-231208-046.done
+https://code.vthanhtivi.pw/getlink/tv360/Jw6MP7rxbkrjPdH0U9gQSg/1702054018/215/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",AXN Asia_vietngatv.m3u-231208-009.done
+http://vthanhtivi.pw:5000/axn/index.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTINF:0 group-title="Foreign",BBC Earth_vietstv-231130-033.done
 http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+#EXTINF:0 group-title="Foreign",BBC Lifestyle HD_-231208-077.done
+http://sub-livecdn.khanggtivi.xyz/hda2/lifestyle_vhls.smil/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==|user-agent=KhanggTivi
 #EXTINF:0 group-title="Foreign",BBC News_-231130-026.done
 http://free.cvmtv.site/BBCN?token=live
 #EXTINF:0 group-title="Foreign",BBC News_kiptv.m3u-231124-084.done
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",BBC News_vthanhtivi.pw-231208-043.done
+http://fpt.vthanhtivi.pw/BBC_News/mpegts|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTINF:0 group-title="Foreign",BBC News Asia_vietngatv.m3u-231130-089.done
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:0 group-title="Foreign",BBC One_-231130-021.done
@@ -72,6 +82,12 @@ http://free.cvmtv.site/BBC_RB?token=live
 http://free.cvmtv.site/BBC2?token=live
 #EXTINF:0 group-title="Foreign",Bloomberg Television Asia_vietngatv.m3u-231130-087.done
 http://210.210.155.35/dr9445/h/h03/01.m3u8
+#EXTINF:0 group-title="Foreign",Bloomberg Television Asia_vietngatv.m3u-231208-010.done
+http://fpt.vthanhtivi.pw/Bloomberg/mpegts
+#EXTINF:0 group-title="Foreign",BS Animax_vthanhtivi.pw-231208-055.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_-231208-027.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=2380|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231124-028.done
 https://code.vthanhtivi.pw/getlink/tv360/1keVukAs2SOj0wgD-_35zA/1700891115/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231130-014.done
@@ -80,6 +96,8 @@ https://code.vthanhtivi.pw/getlink/tv360/DR1mK6GY21I4vY4bqpmvXg/1701370357/2380/
 https://code.vthanhtivi.pw/getlink/tv360/For37zVUeo1QIvgk1bglFg/1701383598/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231130-024.done
 https://code.vthanhtivi.pw/getlink/tv360/tujgFoxv2Mnsnj_8N6G_TA/1701362917/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231208-024.done
+https://code.vthanhtivi.pw/getlink/tv360/32hxGRADV7JShudxj1UWMA/1702054018/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",BTV5_kkk.m3u?dl=0-231130-097.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/|user-agent="Khanggne"
 #EXTINF:0 group-title="Foreign",BTV5 HD - SSPORT 3_47shopiptvbk-231130-131.done
@@ -88,8 +106,12 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="Foreign",Cartoonito Asia HD_vietngatv.m3u-231130-092.done
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",Cartoonito Asia HD_vietngatv.m3u-231208-012.done
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
 #EXTINF:0 group-title="Foreign",Cartoon Network Asia_vietngatv.m3u-231130-090.done
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:0 group-title="Foreign",Cartoon Network Asia HD_vietngatv.m3u-231208-011.done
+http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:0 group-title="Foreign",CBBC_-231130-023.done
 http://free.cvmtv.site/CBBC?token=live
 #EXTINF:0 group-title="Foreign",Channel News Asia_kiptv.m3u-231124-087.done
@@ -98,6 +120,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://cdn6.goprimetime.info/feed/202306140918/LC14/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:0 group-title="Foreign",Cinema_vietngatv.m3u-231130-120.done
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8|user-agent=ExoPlayer2/2.37
+#EXTINF:0 group-title="Foreign",CinemaWorld_-231208-073.done
+http://sub-livecdn.khanggtivi.xyz/hda2/cinemaworld_vhls.smil/index.fmp4.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTINF:0 group-title="Foreign",CinemaWorld_vietngatv.m3u-231130-094.done
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:0 group-title="Foreign",CinemaWorld_vthanhtivi.pw-231130-092.done
@@ -118,38 +142,92 @@ https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/mono.m3u8
 https://fbvip88.com/mytv/mytv.php?id=294|user-agent="KIIP"
 #EXTINF:0 group-title="Foreign",Da Vinci HD_kkk.m3u?dl=0-231130-072.done
 https://dl.dropboxusercontent.com/s/7xccrcxaduhpvpw/getlink/mytv/294/hd.m3u8/?id=da-vinci-hd|user-agent="Khanggne"
+#EXTINF:0 group-title="Foreign",DISCOVERY_-231208-115.done
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
 #EXTINF:0 group-title="Foreign",Discovery Asia_kiptv.m3u-231124-078.done
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/dscasia.smil/manifest.mpd|user-agent=ExoPlayerLib/2.3.4
 #EXTINF:0 group-title="Foreign",Discovery Channel_kiptv.m3u-231124-077.done
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/dsc.smil/manifest.mpd|user-agent=ExoPlayerLib/2.3.4
 #EXTINF:0 group-title="Foreign",Discovery Channel_vietstv-231130-034.done
 http://vthanhtivi.pw:5000/discovery/index.m3u8
+#EXTINF:0 group-title="Foreign",Discovery Channel_vthanhtivi.pw-231208-063.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:0 group-title="Foreign",Discovery Channel SEA_vietngatv.m3u-231130-099.done
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:0 group-title="Foreign",Discovery Dự phòng_vthanhtivi.pw-231130-100.done
 https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",Disney Channel_vthanhtivi.pw-231208-060.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:0 group-title="Foreign",EWTN Asia-Pacific_vietngatv.m3u-231130-101.done
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8|user-agent=ExoPlayer2/2.37
 #EXTINF:0 group-title="Foreign",FOX_-231130-025.done
 http://free.cvmtv.site/FOX?token=live
+#EXTINF:0 group-title="Foreign",FOX_-231208-122.done
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:0 group-title="Foreign",FOX DEPORTES_-231208-120.done
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:0 group-title="Foreign",FOX SPORTS 2 mx_-231208-117.done
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:0 group-title="Foreign",FOX SPORTS 3 mx_-231208-121.done
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:0 group-title="Foreign",FOX SPORTS mx_-231208-116.done
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 #EXTINF:0 group-title="Foreign",France 24_vthanhtivi.pw-231130-095.done
 https://code.vthanhtivi.pw/getlink/vieon2/france-24-english/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",France 24_vthanhtivi.pw-231208-044.done
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 #EXTINF:0 group-title="Foreign",France 24 English_-231130-027.done
 http://free.cvmtv.site/F24?token=live
 #EXTINF:0 group-title="Foreign",FRANCE 24 English HD_vietngatv.m3u-231130-105.done
 https://qnetlive.nethubtv.vn/live/france24hd.smil/chunklist_b1628000_sleng.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 #EXTINF:0 group-title="Foreign",FRANCE 24 Français_vietngatv.m3u-231130-104.done
 https://qnetlive.nethubtv.vn/live/france24sd.smil/chunklist_b1628000_sleng.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+#EXTINF:0 group-title="Foreign",France 24 HD_-231208-075.done
+https://qnetlive.nethubtv.vn/live/france24hd.smil/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",HBO 2_-231208-119.done
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:0 group-title="Foreign",HBO_bearlivetv-231130-057.done
 http://vthanhtivi.pw:5000/hbo/index.m3u8|user-agent="BearTV"
 #EXTINF:0 group-title="Foreign",HBO_vietstv-231130-031.done
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:0 group-title="Foreign",HBO Asia_vietngatv.m3u-231130-106.done
 https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:0 group-title="Foreign",HBO Family HD_-231208-070.done
+http://sub-livecdn.khanggtivi.xyz/out/v1/d15476c2807d4380b0cc375a7d861752/index.m3u8|user-agent=KhanggTivi
 #EXTINF:0 group-title="Foreign",HBO HD Dự phòng_vthanhtivi.pw-231130-090.done
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",HBO Hits HD_-231208-071.done
+http://sub-livecdn.khanggtivi.xyz/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/index.m3u8
+#EXTINF:0 group-title="Foreign",HBO Signature HD_-231208-072.done
+http://sub-livecdn.khanggtivi.xyz/out/v1/b37a81eb3585471cb9c639c78edcdefa/index.m3u8
 #EXTINF:0 group-title="Foreign",MTA6 Asia_vietngatv.m3u-231130-107.done
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",MY059:HBO Hits_-231208-131.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
+#EXTINF:0 group-title="Foreign",MY069:CTI Asia_-231208-132.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71042
+#EXTINF:0 group-title="Foreign",MY072:TVBS ASIA HD_-231208-133.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71045
+#EXTINF:0 group-title="Foreign",MY086:Cinemax HD_-231208-134.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71058
+#EXTINF:0 group-title="Foreign",MY099:Discovery HD_-231208-135.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71071
+#EXTINF:0 group-title="Foreign",MY100:DISCOVERY ASIA_-231208-136.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71072
+#EXTINF:0 group-title="Foreign",MY101:Discovery Science_-231208-137.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71073
+#EXTINF:0 group-title="Foreign",MY103:ANIMAL PLANET HD_-231208-138.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71075
+#EXTINF:0 group-title="Foreign",MY128:ANIMAX_-231208-139.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71100
+#EXTINF:0 group-title="Foreign",MY141:FRANCE24 HD_-231208-143.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71113
+#EXTINF:0 group-title="Foreign",MY147:BBC Earth HD_-231208-145.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71119
+#EXTINF:0 group-title="Foreign",MY148:BBC Lifestyle_-231208-146.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
+#EXTINF:0 group-title="Foreign",MY150:BBC World News_-231208-147.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71122
 #EXTINF:0 group-title="Foreign",National Geographic HD_kiptv.m3u-231124-076.done
 https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTINF:0 group-title="Foreign",Nick Jr Asia_vietngatv.m3u-231130-108.done
@@ -158,6 +236,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/inde
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 #EXTINF:0 group-title="Foreign",SCTV5_kiptv.m3u-231124-047.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_-231208-052.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv5-a3cdb592/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_kkk.m3u?dl=0-231130-045.done
 https://hqth.me/SCTV5?khanggtv|Referer=http://sctvonline.vn/index.m3u8|user-agent="Khanggtv"
 #EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_vthanhtivi.pw-231130-059.done
@@ -176,18 +256,26 @@ https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/chunklist_b1628000_sleng.m3u
 https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",TV5 Monde Asie_vietngatv.m3u-231130-110.done
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",TV5MONDE HD_-231208-076.done
+https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8|user-agent=KhanggTivi
+#EXTINF:0 group-title="Foreign",VTV5 - Độ trễ thấp_vthanhtivi.pw-231208-007.done
+http://fpt.vthanhtivi.pw/VTV5/mpegts
 #EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231130-010.done
 https://code.vthanhtivi.pw/getlink/mi/cUK8bmAaq9ssiqneJE77mQ/1701370357/379/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231130-010.done
 https://code.vthanhtivi.pw/getlink/mi/vEOelzIj4Wlyj1p0NdTQrg/1701383598/379/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231130-017.done
 https://code.vthanhtivi.pw/getlink/mi/BaNpJO2NIheZESGHrG0Xww/1701362917/379/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231208-017.done
+https://code.vthanhtivi.pw/getlink/mi/Ic8aS4qFhxpcz7WtEJqAWA/1702054018/379/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 50fps | THỬ NGHIỆM_vthanhtivi.pw-231124-021.done
 https://code.vthanhtivi.pw/getlink/mi/-RzjcKA9Yi_p0r-FghcBYw/1700891115/379/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5_vthanhtivi.pw-231130-010.done
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 HD_-231130-003.done
 http://vtv.cvmtv.site/VTV5HD?token=live
+#EXTINF:0 group-title="Foreign",VTV5 HD_-231208-007.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=110|user-agent=KhanggTivi
 #EXTINF:0 group-title="Foreign",VTV5 HD_kkk.m3u?dl=0-231130-005.done
 https://iplogger.com/vtv5-hd-50fps.link|user-agent="Khanggne"
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps_vthanhtivi.pw-231130-011.done
@@ -196,12 +284,16 @@ https://code.vthanhtivi.pw/getlink/mi/VeWVNUmfHPLz-r8Lv3Pfow/1701370357/615/play
 https://code.vthanhtivi.pw/getlink/mi/66pSThP266VR1gLnCKOesQ/1701383598/615/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps_vthanhtivi.pw-231130-018.done
 https://code.vthanhtivi.pw/getlink/mi/0RoaZtJZ1bCQ_9Q6mFOCrg/1701362917/615/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps_vthanhtivi.pw-231208-018.done
+https://code.vthanhtivi.pw/getlink/mi/_CWwP6piWaXcS4acEKpHhg/1702054018/615/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps | THỬ NGHIỆM_vthanhtivi.pw-231124-022.done
 https://code.vthanhtivi.pw/getlink/mi/pspYo6hPLLx9sdAH74s_Ew/1700891115/615/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ_vthanhtivi.pw-231130-011.done
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ — THVN_vietngatv.m3u-231130-007.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_-231208-013.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=207|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",VTV5 TÂY NGUYÊN_bearlivetv-231130-011.done
 https://tivi.vietanhtv.fun/tv360/ooabmKVyoZiGhnmloKajhpuVpnSfmYeG/207/2/index.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_vthanhtivi.pw-231124-016.done
@@ -212,8 +304,12 @@ https://code.vthanhtivi.pw/getlink/tv360/cMVMzcMQXOhJVej1TGBeRQ/1701370357/207/p
 https://code.vthanhtivi.pw/getlink/tv360/JKmY6CKM4Vice98My6Lx8A/1701383598/207/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_vthanhtivi.pw-231130-012.done
 https://code.vthanhtivi.pw/getlink/tv360/TpVmBPgvsPzahjC58wCNAg/1701362917/207/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_vthanhtivi.pw-231208-012.done
+https://code.vthanhtivi.pw/getlink/tv360/A9BaKnCbofWJPfWY69kG_Q/1702054018/207/playlist.m3u8
 #EXTINF:0 group-title="Foreign",VTV5 — THVN_vietngatv.m3u-231130-005.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",WOWOW Cinema_vthanhtivi.pw-231208-054.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:0 group-title="Foreign",Zoo Moo Asia_vietngatv.m3u-231130-112.done
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV1_-231130-004.done
@@ -224,6 +320,8 @@ https://code.vthanhtivi.pw/getlink/mi/DimUt_xrgzLLWNC45nmP8w/1701383598/7/playli
 https://code.vthanhtivi.pw/getlink/mi/FmacauNEG1Cy1CyspxzgZg/1701370357/7/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV1_vthanhtivi.pw-231130-040.done
 https://code.vthanhtivi.pw/getlink/mi/5sWeb8ql9jDpDYyBANkvtg/1701362917/7/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV1_vthanhtivi.pw-231208-028.done
+https://code.vthanhtivi.pw/getlink/mi/rRPC_pYvQB-7h0Xf8ViUQA/1702054018/7/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="HTV",HTV2_vietngatv.m3u-231130-040.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="HTV",HTV3 - Cháo TV_vthanhtivi.pw-231130-019.done
@@ -232,26 +330,42 @@ https://code.vthanhtivi.pw/getlink/mi/Slv5fuAAXo1Ja6WKdakQsg/1701383598/110/play
 https://code.vthanhtivi.pw/getlink/mi/4yiQfqkN7HZt08Yp8djXbA/1701370357/110/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV3 - Cháo TV_vthanhtivi.pw-231130-042.done
 https://code.vthanhtivi.pw/getlink/mi/oHVAeDXJIwOWdmctRtaABQ/1701362917/110/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV3 - Cháo TV_vthanhtivi.pw-231208-029.done
+https://code.vthanhtivi.pw/getlink/mi/FLAXY7yPiJy44DiOrMFNvQ/1702054018/110/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV3_vietngatv.m3u-231208-004.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV7_antmediatv.xyz-231208-113.done
+http://vtv.cvmtv.site/HTV7?token=live
 #EXTINF:0 group-title="HTV",HTV7_vietngatv.m3u-231130-044.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV7 HD_-231208-045.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/htv7-hd/chunklist_b5128000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTINF:0 group-title="HTV",HTV7 HD_bearlivetv-231130-063.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="HTV",HTV7 HD_vthanhtivi.pw-231130-044.done
-https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",HTV7 HD_vthanhtivi.pw-231208-031.done
+https://code.vthanhtivi.pw/getlink/mi/4NWDQPaIftr0Mstdp8iiHw/1702054018/128/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV9_antmediatv.xyz-231208-114.done
+http://vtv.cvmtv.site/HTV9?token=live
 #EXTINF:0 group-title="HTV",HTV9_vietngatv.m3u-231130-045.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV9 HD_-231208-046.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/htv9-hd/chunklist_b5128000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTINF:0 group-title="HTV",HTV9 HD_bearlivetv-231130-064.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="HTV",HTV9 HD_vthanhtivi.pw-231130-045.done
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",HTV CO.OP_vthanhtivi.pw-231130-026.done
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",HTV9 HD_vthanhtivi.pw-231208-032.done
+https://code.vthanhtivi.pw/getlink/tv360/fs-XlSZSIwF4ImzAIi3yBA/1702054018/194/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Key_antmediatv.xyz-231208-112.done
+http://vtv.cvmtv.site/HTV4?token=live
+#EXTINF:0 group-title="HTV",HTV Key_vietngatv.m3u-231208-005.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231130-020.done
 https://code.vthanhtivi.pw/getlink/mi/Fps7ioMfFqmTtSBCMAT5zg/1701383598/9/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231130-025.done
 https://code.vthanhtivi.pw/getlink/mi/PBKHdba_x351Uj4mVn-RaA/1701370357/9/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231130-043.done
 https://code.vthanhtivi.pw/getlink/mi/sXIS6ELm5xq9LV-M9kiosA/1701362917/9/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231208-030.done
+https://code.vthanhtivi.pw/getlink/mi/scJLZ8vx3f5DW_1G0q735Q/1702054018/9/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV Thể Thao_kkk.m3u?dl=0-231130-018.done
 https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV Thể Thao_vthanhtivi.pw-231124-051.done
@@ -262,30 +376,40 @@ https://code.vthanhtivi.pw/getlink/mi/qM2fpkr3Z6hVlSI4pm-SSQ/1701383598/18/playl
 https://code.vthanhtivi.pw/getlink/mi/fQsInBtNNKOwybkqChf-VA/1701370357/18/playlist.m3u8
 #EXTINF:0 group-title="HTV",HTV Thể Thao_vthanhtivi.pw-231130-047.done
 https://code.vthanhtivi.pw/getlink/mi/fCJb2CsyycpA6xfGVXVtjQ/1701362917/18/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Thể Thao_vthanhtivi.pw-231208-033.done
+https://code.vthanhtivi.pw/getlink/mi/0s2R73UY88wZIU3i9dLMSw/1702054018/18/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Thể Thao HD_-231208-044.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=195|user-agent=KhanggTivi
 #EXTINF:0 group-title="HTV",HTV Thể Thao HD_vietngatv.m3u-231130-046.done
 http://vtv.cvmtv.site/HTVTT?token=live
+#EXTINF:0 group-title="HTV",Long An_vthanhtivi.pw-231208-053.done
+https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8|user-agent=VThanhTivi
 #EXTINF:0 group-title="HTV",THTV - Trà Vinh HD_pcriptv-231130-068.done
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 #EXTINF:0 group-title="HTV",THTV2 - Trà Vinh 2_pcriptv-231130-069.done
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
-#EXTINF:0 group-title="HTV",THTV2 HD | TH Trà Vinh_vthanhtivi.pw-231130-036.done
-https://code.vthanhtivi.pw/getlink/vieon/tra-vinh-2/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",THTV HD | TH Trà Vinh_antmediatv.xyz-231208-098.done
+http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="HTV",THTV HD | TH Trà Vinh_vthanhtivi.pw-231130-086.done
 https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="HTV",THTV | TH Trà Vinh_bearlivetv-231130-080.done
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
-#EXTINF:0 group-title="HTV",THVL1 HD_vthanhtivi.pw-231130-081.done
-https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THVL2 HD_vthanhtivi.pw-231130-082.done
-https://code.vthanhtivi.pw/getlink/vieon/thvl2-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THVL3 HD_vthanhtivi.pw-231130-083.done
-https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THVL4 HD_vthanhtivi.pw-231130-084.done
-https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",THVL1_antmediatv.xyz-231208-115.done
+http://vtv.cvmtv.site/VL1?token=live
+#EXTINF:0 group-title="HTV",THVL2_antmediatv.xyz-231208-116.done
+http://vtv.cvmtv.site/VL2?token=live
 #EXTINF:0 group-title="HTV",Vĩnh Long 1_vietngatv.m3u-231130-078.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",Vĩnh Long 1 HD_-231208-078.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=25|user-agent=KhanggTivi
 #EXTINF:0 group-title="HTV",Vĩnh Long 2_vietngatv.m3u-231130-079.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",Vĩnh Long 2 HD_-231208-079.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=26|user-agent=KhanggTivi
+#EXTINF:0 group-title="HTV",Vĩnh Long 3 HD_-231208-080.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=219|user-agent=KhanggTivi
+#EXTINF:0 group-title="HTV",Vĩnh Long 4 HD_-231208-081.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=220|user-agent=KhanggTivi
 #EXTINF:0 group-title="HTV",VOV4 Đồng bằng Sông Cửu Long (Tây Nam Bộ)_vietngatv.m3u-231130-126.done
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTINF:0 group-title="Music",$ Fashion TV HD_kkk.m3u?dl=0-231130-080.done
@@ -338,6 +462,8 @@ https://live-3.otcnet.ru/wfcenmulti/index.m3u8
 https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
 #EXTINF:0 group-title="SCTV",Fim 360 - SCTV6_kiptv.m3u-231124-048.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV10_-231208-057.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv10-0faf313b/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 10_bearlivetv-231130-028.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV10_kkk.m3u?dl=0-231130-050.done
@@ -350,6 +476,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8?md5=goeMc3OrV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV11_vietngatv.m3u-231130-065.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV11 HD_-231208-058.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv11-1d565c47/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV11 HD_iptv-all.m3u-231130-046.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv11/sd1/index.m3u8?md5=i8wrzqxjGV7BQt9piOK5AA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV11 HD_kkk.m3u?dl=0-231130-051.done
@@ -360,6 +488,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv11/playlist.m3u8|user-agent=Re
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV12_vietngatv.m3u-231130-066.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV12 HD_-231208-059.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv12-b0d6c023/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV12 HD_iptv-all.m3u-231130-047.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV12 HD_kkk.m3u?dl=0-231130-052.done
@@ -372,6 +502,8 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV13_vietngatv.m3u-231130-067.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV13 HD_-231208-060.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv13-67f88fcb/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV13 HD_iptv-all.m3u-231130-048.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv13/sd1/index.m3u8?md5=GeobYI8uI8LhmTFo-CYFcA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV13 HD_kkk.m3u?dl=0-231130-053.done
@@ -420,6 +552,8 @@ https:///e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w16424102
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV17_vietngatv.m3u-231130-071.done
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV17 HD_-231208-063.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv17-hd-87f0ff9d/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV17 HD_iptv-all.m3u-231130-052.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV17 HD_kkk.m3u?dl=0-231130-057.done
@@ -430,6 +564,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv17/playlist.m3u8|user-agent=Re
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV18_vietngatv.m3u-231130-072.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV18 HD_-231208-064.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv18-398b0b4e/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV18 HD_47shopiptvbk-231130-125.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV18 HD_iptv-all.m3u-231130-053.done
@@ -442,6 +578,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv18/playlist.m3u8|user-agent=Re
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV19_vietngatv.m3u-231130-073.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV19 HD_-231208-065.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv19-bf00bd02/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV19 HD_47shopiptvbk-231130-126.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV19 HD_iptv-all.m3u-231130-054.done
@@ -456,6 +594,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sc
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 1 HD - Hài_47shopiptvbk-231130-109.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
+#EXTINF:0 group-title="SCTV",SCTV1 HD_-231208-048.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv1-hd-7f2aafec/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV1 HD_iptv-all.m3u-231130-036.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV1 HD_kkk.m3u?dl=0-231130-041.done
@@ -466,6 +606,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv1/playlist.m3u8|user-agent=Rea
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV20_vietngatv.m3u-231130-074.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV20 HD_-231208-066.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv19-cb98949a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV20 HD_iptv-all.m3u-231130-055.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV20 HD_kkk.m3u?dl=0-231130-060.done
@@ -476,6 +618,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv20/playlist.m3u8|user-agent=Re
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV21_vietngatv.m3u-231130-075.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV21 HD_-231208-067.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv-21-57de221a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV21 HD_47shopiptvbk-231130-128.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV21 HD_iptv-all.m3u-231130-056.done
@@ -490,6 +634,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://s
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV22 HD - SSPORT1_47shopiptvbk-231130-129.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
+#EXTINF:0 group-title="SCTV",SCTV22 HD_-231208-068.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv22-d388dc25/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV22 HD_iptv-all.m3u-231130-057.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV22 HD_kkk.m3u?dl=0-231130-062.done
@@ -502,6 +648,8 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=http://s
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV2_vietngatv.m3u-231130-056.done
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV2 HD_-231208-049.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv2-57c3884d/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV2 HD_kkk.m3u?dl=0-231130-042.done
 https://hqth.me/SCTV2?khanggtv|Referer=http://sctvonline.vn/index.m3u8|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV2 HD_vthanhtivi.pw-231130-056.done
@@ -512,6 +660,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=http://sc
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 3 HD - SEE TV_47shopiptvbk-231130-111.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
+#EXTINF:0 group-title="SCTV",SCTV3 HD_-231208-050.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv3-hd-cf3adaca/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV3 HD_iptv-all.m3u-231130-038.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV3 HD_kkk.m3u?dl=0-231130-043.done
@@ -522,6 +672,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv3/playlist.m3u8|user-agent=Rea
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV4_vietngatv.m3u-231130-058.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV4 HD_-231208-051.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv4-ae779f7e/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV4 HD_iptv-all.m3u-231130-039.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV4 HD_kkk.m3u?dl=0-231130-044.done
@@ -534,12 +686,16 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8|Referer=http://sc
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s1/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV6_vietngatv.m3u-231130-060.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/s1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV6 HD_-231208-053.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv6-202e4566/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV6 HD_iptv-all.m3u-231130-041.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV6 HD_kkk.m3u?dl=0-231130-046.done
 https://dl.dropboxusercontent.com/s/6ndumwbxur43vfc/getlink/tv360/url=https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV6 HD_vthanhtivi.pw-231130-060.done
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv6/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV6 HD_vthanhtivi.pw-231208-040.done
+https://code.vthanhtivi.pw/getlink/tv360/zRcq1ksinhgY3ZDEn1AVHg/1702054018/232/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 7 - Sân Khấu_bearlivetv-231130-025.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV7_kiptv.m3u-231124-049.done
@@ -548,6 +704,8 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?kiptv|Referer=htt
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 7 HD - Sân Khấu_47shopiptvbk-231130-114.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
+#EXTINF:0 group-title="SCTV",SCTV7 HD_-231208-054.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv7-ef7e259a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV7 HD_iptv-all.m3u-231130-042.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV7 HD_kkk.m3u?dl=0-231130-047.done
@@ -558,6 +716,8 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv7/playlist.m3u8|user-agent=Rea
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV 8-VITV - Kinh Tế Tài Chính_bearlivetv-231130-026.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
+#EXTINF:0 group-title="SCTV",SCTV8 HD_-231208-055.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv8-c12d138b/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV8 HD_iptv-all.m3u-231130-043.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV8 HD_kkk.m3u?dl=0-231130-048.done
@@ -578,6 +738,8 @@ https://hqth.me/SCTV9?khanggtv|Referer=http://sctvonline.vn/index.m3u8
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv9/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV HD INDONESIA 2_kkk.m3u?dl=0-231130-098.done
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8|user-agent="Khanggne"
+#EXTINF:0 group-title="SCTV",SCTV HD Phim Tổng Hợp_-231208-069.done
+http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV HD Phim Tổng Hợp_iptv-all.m3u-231130-058.done
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="SCTV",SCTV HD Phim Tổng Hợp_kkk.m3u?dl=0-231130-063.done
@@ -590,18 +752,62 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV Phim Tổng Hợp_vietngatv.m3u-231130-077.done
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SPORT",$ K+ SPORT1 HD_kkk.m3u?dl=0-231130-004.done
-https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",$ K+SPORT 2 HD_kkk.m3u?dl=0-231130-004.done
-https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Sport",01h00-10/12 Vitoria de Guimaraes và Sporting CP_antmediatv.xyz-231208-129.done
+https://hoaivnpt.duckdns.org/live-football/saoke.php?id=vitoria-de-guimaraes-vs-sporting-cp-656e37e850017914c56967d0&.m3u8|Referer=https://sk.mediastation.live/|referer=https://sk.mediastation.live/
+#EXTINF:0 group-title="Sport",06h00-11/12 LD Alajuelense và Club Sport Herediano_antmediatv.xyz-231208-130.done
+https://hoaivnpt.duckdns.org/live-football/saoke.php?id=ld-alajuelense-vs-club-sport-herediano-656e39de50017914c569685d&.m3u8|Referer=https://sk.mediastation.live/|referer=https://sk.mediastation.live/
+#EXTINF:0 group-title="Sport",20h00-09/12 Sporting De Huelva (w) vs Real Sociedad (w)_antmediatv.xyz-231208-119.done
+https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=FiNdlpj&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",21h15-08/12 Sport Alges Dafundo vs Belenenses U23_antmediatv.xyz-231208-120.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=O49OCxk&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h00-08/12 Sporting CP U23 vs Unidos_antmediatv.xyz-231208-123.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=GKTDlAp&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h00-08/12 Sportiva Azores Airlines Women vs Clube dos Galitos Women_antmediatv.xyz-231208-121.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=bufpt1J&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h00-08/12 Sport Viseu Benfica U19 vs Anadia FC U19_antmediatv.xyz-231208-122.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=AkYxcMx&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h30-08/12 Bouake FC vs Societe Omnisports De L'Armee_antmediatv.xyz-231208-125.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=1NURmcS&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h30-08/12 Vizela vs Sporting Braga [BLV Bún Chả]_antmediatv.xyz-231208-124.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=xFMm0zU&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",22h30-08/12 Vizela vs Sporting Braga_antmediatv.xyz-231208-118.done
+https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=LMuzEwl&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
 #EXTINF:0 group-title="SPORT",[ONSports+|Phim] - Phim Nước Ngoài Mới Tôi Gặp Anh Ấy Ở Hồng Kông (26T) Tập 05_vthanhtivi.pw-231130-005.done
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/90723.m3u8
+#EXTINF:0 group-title="Sport",[ONSports+|Phim] - Phim Nước Ngoài Mới Tôi Gặp Anh Ấy Ở Hồng Kông (26T) Tập 12_vthanhtivi.pw-231208-001.done
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/92209.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Sport",[sportquocte|Bi-a] - Siêu kinh điển Efren Reyes vs Do Khai - 2023 Hanoi Open Pool Championship_vthanhtivi.pw-231208-003.done
+https://code.vthanhtivi.pw/getlink/onlive/sportquocte/92439.m3u8
 #EXTINF:0 group-title="Sport",B4CONNECT2(Kênh kết nối bóng đá)_ONETV.m3u-231130-002.done
 http://b4tv.live/b4tv/b4tv/76.m3u8
+#EXTINF:0 group-title="Sport",B4EVENT1 (Kênh sự kiện thể thao)_ONETV.m3u-231208-002.done
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:0 group-title="Sport",B4EVENT2 (Kênh sự kiện thể thao)_ONETV.m3u-231208-003.done
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:0 group-title="Sport",B4EVENT3 (Kênh sự kiện thể thao)_ONETV.m3u-231208-004.done
+http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:0 group-title="SPORT",Bein Sports 1_vthanhtivi.pw-231130-122.done
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:0 group-title="Sport",BeIN Sports 1 SD_-231208-083.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330457&extension=ts&play_token=3XWc1rIXr2
 #EXTINF:0 group-title="SPORT",Bein Sports 2_vthanhtivi.pw-231130-123.done
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:0 group-title="Sport",BeIN Sports 2 SD_-231208-084.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330458&extension=ts&play_token=5qFMBbq6ve
+#EXTINF:0 group-title="Sport",BeIN Sports 3 SD_-231208-085.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330459&extension=ts&play_token=GMV2fLHiK9
+#EXTINF:0 group-title="Sport",BeIN Sports 4 SD_-231208-086.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330460&extension=ts&play_token=Rpp56gZzg0
+#EXTINF:0 group-title="Sport",BeIN Sports 5 SD_-231208-087.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330461&extension=ts&play_token=xXYTRtDsJU
+#EXTINF:0 group-title="Sport",BeIN Sports 6 SD_-231208-088.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330462&extension=ts&play_token=jBQzIC10Dh
+#EXTINF:0 group-title="Sport",BeIN Sports 7 SD_-231208-089.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330463&extension=ts&play_token=yUICKaxd4X
+#EXTINF:0 group-title="Sport",BeIN Sports 9 SD_-231208-091.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330465&extension=ts&play_token=xeaOF42VVL
+#EXTINF:0 group-title="Sport",BeIN Sports Global SD_-231208-082.done
+http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330456&extension=ts&play_token=Wqb2u8l32c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:0 group-title="SPORT",BEIN SPORTS XTRA_kkk.m3u?dl=0-231130-100.done
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:0 group-title="SPORT",Canal+ Sport 1_-231130-010.done
@@ -622,16 +828,86 @@ http://free.cvmtv.site/E2?token=live
 http://free.cvmtv.site/E3?token=live
 #EXTINF:0 group-title="SPORT",Eleven Sports 4_-231130-016.done
 http://free.cvmtv.site/E4?token=live
+#EXTINF:0 group-title="Sport",Event Sport 12_-231208-103.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 13_-231208-104.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 14_-231208-105.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 15_-231208-106.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 1_-231208-092.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 3_-231208-094.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 4_-231208-095.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 6_-231208-097.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 8_-231208-099.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",Event Sport 9_-231208-100.done
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title="Sport",GAORA SPORTS_vthanhtivi.pw-231208-061.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:0 group-title="Sport",J SPORTS 1_vthanhtivi.pw-231208-056.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:0 group-title="Sport",J SPORTS 2_vthanhtivi.pw-231208-057.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:0 group-title="Sport",J SPORTS 3_vthanhtivi.pw-231208-058.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:0 group-title="Sport",J SPORTS 4_vthanhtivi.pw-231208-059.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:0 group-title="Sport",K+ SPORT1_vietngatv.m3u-231208-007.done
+http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Sport",K+ SPORT1 HD - MyTV_-231208-018.done
+http://sub-livecdn.khanggtivi.xyz/ksport1_mytv/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
+#EXTINF:0 group-title="Sport",K+ SPORT1 SV2_-231208-016.done
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c|user-agent=KhanggTivi
+#EXTINF:0 group-title="Sport",K+ SPORT2_vietngatv.m3u-231208-008.done
+http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
+#EXTINF:0 group-title="Sport",K+ SPORT2 HD - MyTV_-231208-019.done
+http://sub-livecdn.khanggtivi.xyz/ksport2_mytv/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
+#EXTINF:0 group-title="Sport",K+ SPORT2 SV2_-231208-017.done
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 #EXTINF:0 group-title="SPORT",List thể thao nay đã chuyển sang KIPTV Sport: http://hqth.me/kiptvs_kiptv.m3u-231124-127.done
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8|user-agent=ExoPlayer
+#EXTINF:0 group-title="Sport",MY013:Super Sport 1_-231208-124.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
+#EXTINF:0 group-title="Sport",MY014:Super Sport 2_-231208-125.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
+#EXTINF:0 group-title="Sport",MY015:Super Sport 3_-231208-126.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
+#EXTINF:0 group-title="Sport",MY016:Super Sport 4_-231208-127.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
+#EXTINF:0 group-title="Sport",MY022:Super Sport 5_-231208-128.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
+#EXTINF:0 group-title="Sport",MY107:Astro SuperSport Events 6_-231208-129.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71079
+#EXTINF:0 group-title="Sport",MY129:bEIN Sports 3_-231208-140.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71101
+#EXTINF:0 group-title="Sport",MY132:beIN SPORTS_-231208-141.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71104
+#EXTINF:0 group-title="Sport",MY134:EUROSPORT HD_-231208-142.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71106
+#EXTINF:0 group-title="Sport",MY146:beIN Sports 2_-231208-144.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71118
+#EXTINF:0 group-title="Sport",MY177:Astro SuperSport Events 3_-231208-130.done
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71146
 #EXTINF:0 group-title="SPORT",ON SPORTS +_bearlivetv-231130-015.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:0 group-title="Sport",ON Sports+_vthanhtivi.pw-231208-021.done
+http://edge.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
 #EXTINF:0 group-title="SPORT",ON Sports+ HD_vietngatv.m3u-231130-015.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SPORT",ON SPORTS_bearlivetv-231130-014.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:0 group-title="SPORT",ON Sports HD_vietngatv.m3u-231130-014.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Sport",ON Sports HD_vthanhtivi.pw-231208-020.done
+http://edge.vthanhtivi.pw/ON_Sports/index.m3u8
+#EXTINF:0 group-title="Sport",ON Sports News_vthanhtivi.pw-231208-022.done
+http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="SPORT",Polsat Sport_-231130-017.done
 http://free.cvmtv.site/Polsat?token=live
 #EXTINF:0 group-title="SPORT",Polsat Sport Extra_-231130-018.done
@@ -644,16 +920,34 @@ https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8|user-agent=Mozilla/5.0 (iPhone
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:0 group-title="SPORT",Sky Sport F1 UHD_vthanhtivi.pw-231124-111.done
 https://7pal.short.gy/SSF1uhd|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Sport",Sky Sports F1_kkk.m3u?dl=0-231208-052.done
+http://yurendtv.my.id/cricfree/index.m3u8?id=skysfor1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTINF:0 group-title="SPORT",Sky Sports Main Event UHD_vthanhtivi.pw-231124-108.done
 https://7pal.short.gy/SSMEuhd|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Sport",Sony Sport1_-231208-113.done
+http://103.120.172.74:5400
+#EXTINF:0 group-title="Sport",Sony Sport5_-231208-112.done
+http://103.120.172.74:5300
 #EXTINF:0 group-title="SPORT",Sony Sports 2_-231130-006.done
 http://free.cvmtv.site/ST2?token=live
 #EXTINF:0 group-title="SPORT",Sony Sports 3_-231130-001.done
 http://free.cvmtv.site/ST3?token=live
 #EXTINF:0 group-title="SPORT",Sportdigital_-231130-007.done
 http://free.cvmtv.site/SD?token=live
+#EXTINF:0 group-title="Sport",Star sports1_-231208-107.done
+http://103.120.172.74:4100
+#EXTINF:0 group-title="Sport",Star sports1_-231208-109.done
+http://103.120.172.74:4600
+#EXTINF:0 group-title="Sport",Star sports2_-231208-110.done
+http://103.120.172.74:4700
+#EXTINF:0 group-title="Sport",Star sports2_-231208-111.done
+http://103.120.172.74:4800
 #EXTINF:0 group-title="SPORT",Star Sports Select 1_-231130-009.done
 http://free.cvmtv.site/StarSL1?token=live
+#EXTINF:0 group-title="Sport",Star Sports Select 2_antmediatv.xyz-231208-117.done
+http://free.cvmtv.site/StarSL2?token=live
+#EXTINF:0 group-title="Sport",TNT SPORTS CHI_-231208-123.done
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 #EXTINF:0 group-title="SPORT",True Sport 2_bearlivetv-231130-089.done
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:0 group-title="SPORT",True Sports 1_vietngatv.m3u-231130-115.done
@@ -674,32 +968,44 @@ https://ctrl.laotv.la/live/TSports7/index.m3u8|referer=http://broadcast.tvchosun
 http://free.cvmtv.site/TVPS?token=live
 #EXTINF:0 group-title="SPORT",TVRI SPORT | INDO_bearlivetv-231130-095.done
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream2/streamPlaylist.m3u8
+#EXTINF:0 group-title="Sport",TYC SPORTS_-231208-114.done
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:0 group-title="SPORT",Viju+ Sport HD_vietngatv.m3u-231130-125.done
 https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:0 group-title="VTC",VTC10_-231208-036.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=204|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC10_vietngatv.m3u-231130-031.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="VTC",VTC10 HD_vietngatv.m3u-231130-032.done
 https://1117560646.vnns.net/VTC10/livevtcnow/VTC10_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC10 HD_vthanhtivi.pw-231130-034.done
 https://1117141481.vnns.net/VTC10/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC11_-231208-037.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=205|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC11_antmediatv.xyz-231208-054.done
+https://1117141481.vnns.net/VTC11/chunks.m3u8|user-agent=ANTmedia
 #EXTINF:0 group-title="VTC",VTC11_vthanhtivi.pw-231130-035.done
 https://1117141481.vnns.net/VTC11/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC11 HD_vietngatv.m3u-231130-033.done
 https://1117560646.vnns.net/VTC11/livevtcnow/VTC11_720p/chunks.m3u8
-#EXTINF:0 group-title="VTC",VTC12 - VTC K_vthanhtivi.pw-231130-019.done
-https://code.vthanhtivi.pw/getlink/vieon/vtc12/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC12_antmediatv.xyz-231208-055.done
+https://1117141481.vnns.net/VTC12/chunks.m3u8|user-agent=ANTmedia
 #EXTINF:0 group-title="VTC",VTC12 HD_vietngatv.m3u-231130-034.done
 https://1117560646.vnns.net/VTC12/livevtcnow/VTC12_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC13 4K ( Thử Nghiệm )_47shopiptvbk-231130-144.done
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC13 4K_vietngatv.m3u-231130-036.done
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
+#EXTINF:0 group-title="VTC",VTC13 HD_-231208-038.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=206|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC13 HD_iptv-all.m3u-231130-022.done
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC13 HD_vietngatv.m3u-231130-035.done
 https://1117560646.vnns.net/VTC13/livevtcnow/VTC13_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC13 HD_vthanhtivi.pw-231130-037.done
 https://1117141481.vnns.net/VTC13/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC14 HD_-231208-039.done
+https://1117560646.vnns.net/VTC14/playlist.m3u8|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC14 HD_vietngatv.m3u-231130-037.done
 https://1117560646.vnns.net/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC14 HD_vthanhtivi.pw-231130-017.done
@@ -708,12 +1014,16 @@ https://code.vthanhtivi.pw/getlink/tv360/yKa86oZBY9NRPbFnuLACow/1701383598/17/pl
 https://code.vthanhtivi.pw/getlink/tv360/SPRV1vpase3yjYkFgMd0Lw/1701370357/17/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC14 HD_vthanhtivi.pw-231130-038.done
 https://code.vthanhtivi.pw/getlink/tv360/B64mhLpYy2bG7tV_qPQZ5w/1701362917/17/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC14 HD_vthanhtivi.pw-231208-027.done
+https://code.vthanhtivi.pw/getlink/tv360/2TrSzcoyx_jJPHzVvJJuGA/1702054018/17/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC16 HD_-231208-040.done
+https://1117560646.vnns.net/VTC16/playlist.m3u8|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC16 HD_vietngatv.m3u-231130-002.done
 https://1117560646.vnns.net/VTC16/livevtcnow/VTC16_720p/chunks.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="VTC",VTC16 HD_vthanhtivi.pw-231130-021.done
-https://code.vthanhtivi.pw/getlink/vieon/vtc16-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTC",VTC1_vietngatv.m3u-231130-017.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTC",VTC1 HD_-231208-028.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=16|user-agent="khanggtivi"
 #EXTINF:0 group-title="VTC",VTC1 HD_kkk.m3u?dl=0-231130-039.done
 https://dl.dropboxusercontent.com/s/ctr1xcxolslkuj4/getlink/tv360/url=https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8|user-agent="khanggtivi"
 #EXTINF:0 group-title="VTC",VTC1 HD_vietngatv.m3u-231130-018.done
@@ -724,6 +1034,10 @@ https://code.vthanhtivi.pw/getlink/tv360/AQFTFHXDtgp20C2UK7Ef_g/1701370357/16/pl
 https://code.vthanhtivi.pw/getlink/tv360/G3peCzxof2cos7qXwnbZNQ/1701383598/16/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC1 HD_vthanhtivi.pw-231130-025.done
 https://code.vthanhtivi.pw/getlink/tv360/tR0LVRkArw9jNb0ijPvkAg/1701362917/16/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC1 HD_vthanhtivi.pw-231208-025.done
+https://code.vthanhtivi.pw/getlink/tv360/BKCa96cbmDKTxjXtAmY1ew/1702054018/16/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC2_-231208-029.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=196|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC2_vthanhtivi.pw-231130-026.done
 https://1117141481.vnns.net/VTC2/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC2 HD_vietngatv.m3u-231130-019.done
@@ -736,20 +1050,26 @@ https://1117141481.vnns.net/VTC3/chunks.m3u8|user-agent=Dalvik/2.1.0
 https://1117560646.vnns.net/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC3 HD_vthanhtivi.pw-231130-027.done
 https://1117141481.vnns.net/VTC3/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC4_-231208-030.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=198|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC4 HD_vietngatv.m3u-231130-023.done
 https://1117560646.vnns.net/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
-#EXTINF:0 group-title="VTC",VTC4 HD_vthanhtivi.pw-231130-016.done
-https://code.vthanhtivi.pw/getlink/vieon/vtc4-yeah1-family-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC5_-231208-031.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=199
 #EXTINF:0 group-title="VTC",VTC5_vietngatv.m3u-231130-024.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="VTC",VTC5 HD_vietngatv.m3u-231130-025.done
 https://1117560646.vnns.net/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
-#EXTINF:0 group-title="VTC",VTC5 HD_vthanhtivi.pw-231130-017.done
-https://code.vthanhtivi.pw/getlink/vieon/vtc5-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC6_-231208-032.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=200|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC6 HD_antmediatv.xyz-231208-049.done
+https://1117141481.vnns.net/VTC6/chunks.m3u8|user-agent=ANTmedia
 #EXTINF:0 group-title="VTC",VTC6 HD_vietngatv.m3u-231130-026.done
 https://1117560646.vnns.net/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC6 HD_vthanhtivi.pw-231130-030.done
 https://1117141481.vnns.net/VTC6/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC7_-231208-033.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=201|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_kkk.m3u?dl=0-231130-040.done
 https://dl.dropboxusercontent.com/s/9xoex0p2z8dd7yr/getlink/mytv/398/live/hd/vtc7/mytv.m3u8?id=vtc7-todaytv-hd|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_vthanhtivi.pw-231130-016.done
@@ -758,22 +1078,38 @@ https://code.vthanhtivi.pw/getlink/tv360/giEGMZP5gS9421CUAGyUHA/1701383598/201/p
 https://code.vthanhtivi.pw/getlink/tv360/EgP5WgIZ_YNFFMq4oI01YQ/1701370357/201/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_vthanhtivi.pw-231130-031.done
 https://code.vthanhtivi.pw/getlink/tv360/pQ5QMUyVzO-9KZ2q1xQn_Q/1701362917/201/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_vthanhtivi.pw-231208-026.done
+https://code.vthanhtivi.pw/getlink/tv360/TZRIYhP02wyE3HaKMJ_CbA/1702054018/201/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTC",VTC7 HD_vietngatv.m3u-231130-027.done
 https://1117560646.vnns.net/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
+#EXTINF:0 group-title="VTC",VTC8_-231208-034.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=202|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC8_antmediatv.xyz-231208-051.done
+https://1117141481.vnns.net/VTC8/chunks.m3u8|user-agent=ANTmedia
 #EXTINF:0 group-title="VTC",VTC8_vthanhtivi.pw-231130-032.done
 https://1117141481.vnns.net/VTC8/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC8 HD_vietngatv.m3u-231130-028.done
 https://1117560646.vnns.net/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
+#EXTINF:0 group-title="VTC",VTC9_-231208-035.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=203|user-agent=Khanggtivi
 #EXTINF:0 group-title="VTC",VTC9_vietngatv.m3u-231130-029.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="VTC",VTC9 HD_vietngatv.m3u-231130-030.done
 https://1117560646.vnns.net/VTC9/livevtcnow/VTC9_720p/chunks.m3u8
 #EXTINF:0 group-title="VTC",VTC9 HD_vthanhtivi.pw-231130-033.done
 https://1117141481.vnns.net/VTC9/playlist.m3u8
+#EXTINF:0 group-title="VTV",[O2tvvtvcab|Đời sống] - Blouse Trắng: 1811 Người Gắn Bó Với Bệnh Nhân Tuyến Giáp_vthanhtivi.pw-231208-002.done
+https://code.vthanhtivi.pw/getlink/onlive/o2tvvtvcab/92221.m3u8
 #EXTINF:0 group-title="VTV",[O2tvvtvcab|Đời sống] - Sitcom: - Mới 3011 Gia Đình Võ Thuật - Tập 39 - Phần 1_vthanhtivi.pw-231130-002.done
 https://code.vthanhtivi.pw/getlink/onlive/o2tvvtvcab/90719.m3u8
 #EXTINF:0 group-title="VTV",SCTV10 — VTV Hyundai Homeshopping_vietngatv.m3u-231130-064.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VOVTV HD_antmediatv.xyz-231208-092.done
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV",VOVTV HD_vthanhtivi.pw-231208-041.done
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV",VTV1 - Độ trễ thấp_vthanhtivi.pw-231208-005.done
+http://fpt.vthanhtivi.pw/VTV1/mpegts
 #EXTINF:0 group-title="VTV",VTV1_bearlivetv-231124-001.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV1_bearlivetv-231130-001.done
@@ -786,8 +1122,12 @@ https://code.vthanhtivi.pw/getlink/mi/GinCbVVW09CFFOL2xrwQPw/1701370357/210/play
 https://code.vthanhtivi.pw/getlink/mi/kbeYDwz37a0VmLnLD05owg/1701383598/210/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV1_vthanhtivi.pw-231130-006.done
 https://code.vthanhtivi.pw/getlink/mi/LGRB7mJKZUByQCwT9IhW8Q/1701362917/210/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV1_vthanhtivi.pw-231208-008.done
+https://code.vthanhtivi.pw/getlink/mi/ZTygoC2aObo8XaYT6p7uYQ/1702054018/210/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV1 HD_-231130-001.done
 http://vtv.cvmtv.site/VTV1HD?token=live
+#EXTINF:0 group-title="VTV",VTV1 HD_-231208-002.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv1-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV1 HD — THVN_vietngatv.m3u-231130-001.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="VTV",VTV2_bearlivetv-231130-002.done
@@ -800,8 +1140,14 @@ https://code.vthanhtivi.pw/getlink/tv360/J3OsW6jsBDRZGrHqU__llw/1701370357/3/pla
 https://code.vthanhtivi.pw/getlink/tv360/2eG4tpRU2Zfad6MArIyfBw/1701383598/3/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV2_vthanhtivi.pw-231130-007.done
 https://code.vthanhtivi.pw/getlink/tv360/ZwPcCAP6dXFBcT7Gu9cFvA/1701362917/3/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV2_vthanhtivi.pw-231208-009.done
+https://code.vthanhtivi.pw/getlink/tv360/qO_q1gn8w1kFHxqOlGqhTw/1702054018/3/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV2 HD_-231208-003.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv2-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV2 — THVN_vietngatv.m3u-231130-002.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV3 - Độ trễ thấp_vthanhtivi.pw-231208-006.done
+http://fpt.vthanhtivi.pw/VTV3/mpegts
 #EXTINF:0 group-title="VTV",VTV3_bearlivetv-231124-003.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV3_bearlivetv-231130-003.done
@@ -814,8 +1160,12 @@ https://code.vthanhtivi.pw/getlink/mi/VUyG9A3a3MrdocTwC0T2wg/1701370357/211/play
 https://code.vthanhtivi.pw/getlink/mi/Lb9Afgum6suDVxfg8O8FYQ/1701383598/211/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV3_vthanhtivi.pw-231130-008.done
 https://code.vthanhtivi.pw/getlink/mi/FExOzcEVYuvrmIKrA-8e7g/1701362917/211/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV3_vthanhtivi.pw-231208-010.done
+https://code.vthanhtivi.pw/getlink/mi/eNdSDTjkALde8kq4s5sXtg/1702054018/211/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV3 HD_-231130-002.done
 http://vtv.cvmtv.site/VTV3HD?token=live
+#EXTINF:0 group-title="VTV",VTV3 HD_-231208-005.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv3-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV3 HD — THVN_vietngatv.m3u-231130-003.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="VTV",VTV4_bearlivetv-231130-004.done
@@ -828,6 +1178,10 @@ https://code.vthanhtivi.pw/getlink/tv360/80MbaH_U65UIAc0QCNGZXg/1701370357/108/p
 https://code.vthanhtivi.pw/getlink/tv360/zZGmy2jyI9mLasDCZ535Mw/1701383598/108/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV4_vthanhtivi.pw-231130-009.done
 https://code.vthanhtivi.pw/getlink/tv360/eKBi6AvM9_EsZtDtP6cA5A/1701362917/108/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV4_vthanhtivi.pw-231208-011.done
+https://code.vthanhtivi.pw/getlink/tv360/Vn_c8c53f6ysqJGHbLVwlQ/1702054018/108/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV4 HD_-231208-006.done
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv4-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV4 HD_kkk.m3u?dl=0-231130-004.done
 https://iplogger.com/vtv4-hd.link|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV4 — THVN_vietngatv.m3u-231130-004.done
@@ -842,6 +1196,10 @@ https://code.vthanhtivi.pw/getlink/tv360/xIcNSYKZQVp7OfuXSKpWvQ/1701370357/6/pla
 https://code.vthanhtivi.pw/getlink/tv360/q-62dZTFB3FMi21smJLlyg/1701383598/6/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV7_vthanhtivi.pw-231130-013.done
 https://code.vthanhtivi.pw/getlink/tv360/gObyoUeLD003A5JGcbpzzQ/1701362917/6/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV7_vthanhtivi.pw-231208-013.done
+https://code.vthanhtivi.pw/getlink/tv360/V765Z1kDaLmlTGP5AIqaZw/1702054018/6/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV7 HD_-231208-009.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=6|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV7 HD_kkk.m3u?dl=0-231130-007.done
 https://dl.dropboxusercontent.com/s/vw3l4uke0977if5/getlink/mytv/hd.m3u8?id=vtv7-hd|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV7 HD — THVN_vietngatv.m3u-231130-010.done
@@ -856,6 +1214,10 @@ https://code.vthanhtivi.pw/getlink/tv360/GHYqdVxukdSCUo89Rb7m9Q/1701370357/115/p
 https://code.vthanhtivi.pw/getlink/tv360/tUp_NIlBgvcXppEyIxyXoQ/1701383598/115/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV8_vthanhtivi.pw-231130-014.done
 https://code.vthanhtivi.pw/getlink/tv360/vxDX_lPSwmTiNhxReNoceA/1701362917/115/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV8_vthanhtivi.pw-231208-014.done
+https://code.vthanhtivi.pw/getlink/tv360/BijgqwxzKuoPmIOg0p740Q/1702054018/115/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV8 HD_-231208-010.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=115|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV8 HD_kkk.m3u?dl=0-231130-008.done
 https://dl.dropboxusercontent.com/s/8ov84efv8m5tpx6/getlink/mytv/380/hd.m3u8?id=vtv8-hd|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV8 — THVN_vietngatv.m3u-231130-011.done
@@ -870,14 +1232,18 @@ https://code.vthanhtivi.pw/getlink/tv360/6bgT2-Q-yjY6qIkcBxpUiQ/1701370357/8/pla
 https://code.vthanhtivi.pw/getlink/tv360/oowtBNmAge0EGsdRh873Eg/1701383598/8/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV9_vthanhtivi.pw-231130-015.done
 https://code.vthanhtivi.pw/getlink/tv360/S3e6RHcrUB0rHCaMPvtfvQ/1701362917/8/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV9_vthanhtivi.pw-231208-015.done
+https://code.vthanhtivi.pw/getlink/tv360/hvVFzj_7aaTyU8buJV6CqQ/1702054018/8/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV9 HD_-231208-011.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=8|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV9 HD_kkk.m3u?dl=0-231130-009.done
 http://dl.dropboxusercontent.com/s/y3qs91dckcosjm9/getlink/sctvonline/hls/vtv9_s2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV9 HD — THVN_vietngatv.m3u-231130-012.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTVcab 1 - Vie Giải trí_-231208-021.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=180|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTV",VTVCab1 - Vie GIẢI TRÍ_bearlivetv-231130-013.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="VTV",VTVcab 1 - Vie Giải trí HD_kkk.m3u?dl=0-231130-031.done
-https://hqth.me/getlinkvieonvtvcab1?viegiaitri/id=392/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTV",VTVCab10 - ON CINE_kiptv.m3u-231124-096.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8?kiptv|Referer=http://sctvonline.vn/|user-agent="KIIP"
 #EXTINF:0 group-title="VTV",VTVCab 10 HD_iptv-all.m3u-231130-067.done
@@ -886,12 +1252,16 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab11/index.m3u8?md5=U3OmAeuvHI3rIJotPQ8EXg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab12 HD_iptv-all.m3u-231130-069.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0 group-title="VTV",VTVcab 13_-231208-047.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=27|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTVCab15 HD_iptv-all.m3u-231130-070.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab17 - ON Trending TV_kiptv.m3u-231124-100.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTV",VTVCab17 HD_iptv-all.m3u-231130-071.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0 group-title="VTV",VTVcab 19 - Vie Dramas_-231208-026.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=177|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTV",VTVCab19 - Vie DRAMAS_bearlivetv-231130-017.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab19 - Vie Dramas_kiptv.m3u-231124-098.done
@@ -904,6 +1274,8 @@ https://code.vthanhtivi.pw/getlink/tv360/j6ZGvjqkDtWLAA81R2lgZQ/1701370357/177/p
 https://code.vthanhtivi.pw/getlink/tv360/mbc4-zmqoGP2LTRNOwyUzQ/1701383598/177/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="VTV",VTVcab 19_vthanhtivi.pw-231130-023.done
 https://code.vthanhtivi.pw/getlink/tv360/69PMoKEMJy3XgC7b3bgpQQ/1701362917/177/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTVcab 19_vthanhtivi.pw-231208-023.done
+https://code.vthanhtivi.pw/getlink/tv360/2fNvmLYR8twebR7nCTo7NA/1702054018/177/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTVCab19 HD_iptv-all.m3u-231130-072.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVcab 19 HD_vietngatv.m3u-231130-016.done
@@ -914,6 +1286,8 @@ https://code.vthanhtivi.pw/getlink/tv360/o9c2HzhbtWZ6ZiB3n0y0ZA/1701370357/180/p
 https://code.vthanhtivi.pw/getlink/tv360/8sMapxBy67_wJreistF6_Q/1701383598/180/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTVcab 1_vthanhtivi.pw-231130-019.done
 https://code.vthanhtivi.pw/getlink/tv360/SGq8U84OXIUH0kX7ZyxZlA/1701362917/180/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTVcab 1_vthanhtivi.pw-231208-019.done
+https://code.vthanhtivi.pw/getlink/tv360/0LMYtKqlD_IWu1sYSRLlNg/1702054018/180/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTVCab1 HD_iptv-all.m3u-231130-059.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab 1 HD_vietngatv.m3u-231130-013.done
@@ -942,6 +1316,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http:
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab9 HD_iptv-all.m3u-231130-066.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0 group-title="VTV",VTV Cần Thơ_-231208-008.done
+http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=98|user-agent=KhanggTivi
 #EXTINF:0 group-title="VTV",VTV CẦN THƠ_bearlivetv-231130-006.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV Cần Thơ_kkk.m3u?dl=0-231130-006.done
@@ -954,623 +1330,255 @@ https://code.vthanhtivi.pw/getlink/mi/9LL2oLKVyyv3iEm1o4Rdbw/1701370357/212/play
 https://code.vthanhtivi.pw/getlink/mi/3HacS-HrGr_K4LNKBWQcDg/1701383598/212/playlist.m3u8
 #EXTINF:0 group-title="VTV",VTV Cần Thơ_vthanhtivi.pw-231130-016.done
 https://code.vthanhtivi.pw/getlink/mi/MXeGKpPeLIIEJQX3GunQDw/1701362917/212/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV Cần Thơ HD — THVN_vietngatv.m3u-231130-009.done
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="Foreign",ディズニージュニア / Disney Junior_vthanhtivi.pw-231208-062.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:0 group-title="Sport",01h00-10/12 Vitoria de Guimaraes và Sporting CP_antmediatv.xyz-231208-129.done
-https://hoaivnpt.duckdns.org/live-football/saoke.php?id=vitoria-de-guimaraes-vs-sporting-cp-656e37e850017914c56967d0&.m3u8|Referer=https://sk.mediastation.live/|referer=https://sk.mediastation.live/
-#EXTINF:0 group-title="Sport",06h00-11/12 LD Alajuelense và Club Sport Herediano_antmediatv.xyz-231208-130.done
-https://hoaivnpt.duckdns.org/live-football/saoke.php?id=ld-alajuelense-vs-club-sport-herediano-656e39de50017914c569685d&.m3u8|Referer=https://sk.mediastation.live/|referer=https://sk.mediastation.live/
-#EXTINF:0 group-title="Sport",20h00-09/12 Sporting De Huelva (w) vs Real Sociedad (w)_antmediatv.xyz-231208-119.done
-https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=FiNdlpj&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",21h15-08/12 Sport Alges Dafundo vs Belenenses U23_antmediatv.xyz-231208-120.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=O49OCxk&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h00-08/12 Sporting CP U23 vs Unidos_antmediatv.xyz-231208-123.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=GKTDlAp&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h00-08/12 Sportiva Azores Airlines Women vs Clube dos Galitos Women_antmediatv.xyz-231208-121.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=bufpt1J&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h00-08/12 Sport Viseu Benfica U19 vs Anadia FC U19_antmediatv.xyz-231208-122.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=AkYxcMx&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h30-08/12 Bouake FC vs Societe Omnisports De L'Armee_antmediatv.xyz-231208-125.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=1NURmcS&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h30-08/12 Vizela vs Sporting Braga [BLV Bún Chả]_antmediatv.xyz-231208-124.done
-https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=xFMm0zU&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Sport",22h30-08/12 Vizela vs Sporting Braga_antmediatv.xyz-231208-118.done
-https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=LMuzEwl&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
-#EXTINF:0 group-title="Foreign",[BTV5|Thể Thao Tổng Hợp] - Tường Thuật Điền Kinh Marathon Valencia Trinida Alfonso 2023_vthanhtivi.pw-231208-004.done
-https://code.vthanhtivi.pw/getlink/onlive/onsportsact/92486.m3u8
-#EXTINF:0 group-title="VTV",[O2tvvtvcab|Đời sống] - Blouse Trắng: 1811 Người Gắn Bó Với Bệnh Nhân Tuyến Giáp_vthanhtivi.pw-231208-002.done
-https://code.vthanhtivi.pw/getlink/onlive/o2tvvtvcab/92221.m3u8
-#EXTINF:0 group-title="Sport",[ONSports+|Phim] - Phim Nước Ngoài Mới Tôi Gặp Anh Ấy Ở Hồng Kông (26T) Tập 12_vthanhtivi.pw-231208-001.done
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/92209.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",[sportquocte|Bi-a] - Siêu kinh điển Efren Reyes vs Do Khai - 2023 Hanoi Open Pool Championship_vthanhtivi.pw-231208-003.done
-https://code.vthanhtivi.pw/getlink/onlive/sportquocte/92439.m3u8
-#EXTINF:0 group-title="Foreign",ANIMAL PLANET_-231208-118.done
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:0 group-title="Foreign",Asian Food Network_antmediatv.xyz-231208-103.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/298/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Foreign",Asian Food Network_vthanhtivi.pw-231208-046.done
-https://code.vthanhtivi.pw/getlink/tv360/Jw6MP7rxbkrjPdH0U9gQSg/1702054018/215/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTINF:0 group-title="Foreign",AXN Asia_vietngatv.m3u-231208-009.done
-http://vthanhtivi.pw:5000/axn/index.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
-#EXTINF:0 group-title="Sport",B4EVENT1 (Kênh sự kiện thể thao)_ONETV.m3u-231208-002.done
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:0 group-title="Sport",B4EVENT2 (Kênh sự kiện thể thao)_ONETV.m3u-231208-003.done
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:0 group-title="Sport",B4EVENT3 (Kênh sự kiện thể thao)_ONETV.m3u-231208-004.done
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:0 group-title="Foreign",BBC Lifestyle HD_-231208-077.done
-http://sub-livecdn.khanggtivi.xyz/hda2/lifestyle_vhls.smil/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==|user-agent=KhanggTivi
-#EXTINF:0 group-title="Foreign",BBC News_vthanhtivi.pw-231208-043.done
-http://fpt.vthanhtivi.pw/BBC_News/mpegts|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTINF:0 group-title="Sport",BeIN Sports 1 SD_-231208-083.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330457&extension=ts&play_token=3XWc1rIXr2
-#EXTINF:0 group-title="Sport",BeIN Sports 2 SD_-231208-084.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330458&extension=ts&play_token=5qFMBbq6ve
-#EXTINF:0 group-title="Sport",BeIN Sports 3 SD_-231208-085.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330459&extension=ts&play_token=GMV2fLHiK9
-#EXTINF:0 group-title="Sport",BeIN Sports 4 SD_-231208-086.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330460&extension=ts&play_token=Rpp56gZzg0
-#EXTINF:0 group-title="Sport",BeIN Sports 5 SD_-231208-087.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330461&extension=ts&play_token=xXYTRtDsJU
-#EXTINF:0 group-title="Sport",BeIN Sports 6 SD_-231208-088.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330462&extension=ts&play_token=jBQzIC10Dh
-#EXTINF:0 group-title="Sport",BeIN Sports 7 SD_-231208-089.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330463&extension=ts&play_token=yUICKaxd4X
-#EXTINF:0 group-title="Sport",BeIN Sports 8 SD_-231208-090.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330464&extension=ts&play_token=PgijhWlRhC
-#EXTINF:0 group-title="Sport",BeIN Sports 9 SD_-231208-091.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330465&extension=ts&play_token=xeaOF42VVL
-#EXTINF:0 group-title="Sport",BeIN Sports Global SD_-231208-082.done
-http://line.greatstar.me/play/live.php?mac=00:1a:79:bf:e6:c8&stream=1330456&extension=ts&play_token=Wqb2u8l32c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 group-title="Foreign",Bloomberg Television Asia_vietngatv.m3u-231208-010.done
-http://fpt.vthanhtivi.pw/Bloomberg/mpegts
-#EXTINF:0 group-title="Foreign",BS Animax_vthanhtivi.pw-231208-055.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_-231208-027.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=2380|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_antmediatv.xyz-231208-044.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/2380/2.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231208-024.done
-https://code.vthanhtivi.pw/getlink/tv360/32hxGRADV7JShudxj1UWMA/1702054018/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",Cartoonito Asia HD_vietngatv.m3u-231208-012.done
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
-#EXTINF:0 group-title="Foreign",Cartoon Network Asia HD_vietngatv.m3u-231208-011.done
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
-#EXTINF:0 group-title="Foreign",CinemaWorld_-231208-073.done
-http://sub-livecdn.khanggtivi.xyz/hda2/cinemaworld_vhls.smil/index.fmp4.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTINF:0 group-title="Foreign",Da Vinci HD_-231208-074.done
-http://live2cdn.khanggtivi.xyz:9981/stream/mux/8b2dee46df99de6d06eba02f8b9fc266|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",Da Vinci HD_antmediatv.xyz-231208-104.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/294/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Foreign",DISCOVERY_-231208-115.done
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:0 group-title="Foreign",Discovery Channel_vthanhtivi.pw-231208-063.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:0 group-title="Foreign",Disney Channel_vthanhtivi.pw-231208-060.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:0 group-title="Sport",Event Sport 12_-231208-103.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 13_-231208-104.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 14_-231208-105.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 15_-231208-106.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 1_-231208-092.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 3_-231208-094.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 4_-231208-095.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 6_-231208-097.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 8_-231208-099.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Sport",Event Sport 9_-231208-100.done
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
-#EXTINF:0 group-title="Foreign",FOX_-231208-122.done
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:0 group-title="Foreign",FOX DEPORTES_-231208-120.done
-http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-#EXTINF:0 group-title="Foreign",FOX SPORTS 2 mx_-231208-117.done
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:0 group-title="Foreign",FOX SPORTS 3 mx_-231208-121.done
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-#EXTINF:0 group-title="Foreign",FOX SPORTS mx_-231208-116.done
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 group-title="Foreign",France 24_antmediatv.xyz-231208-100.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon/france-24-1/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",France 24_vthanhtivi.pw-231208-044.done
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-#EXTINF:0 group-title="Foreign",France 24 English_antmediatv.xyz-231208-101.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon/france-24-english-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",France 24 HD_-231208-075.done
-https://qnetlive.nethubtv.vn/live/france24hd.smil/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",F Sports 10_antmediatv.xyz-231208-010.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-10/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 11_antmediatv.xyz-231208-011.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-11/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 12_antmediatv.xyz-231208-012.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-12/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 13_antmediatv.xyz-231208-013.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-13/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 14_antmediatv.xyz-231208-014.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-14/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 15_antmediatv.xyz-231208-015.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-15/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 16_antmediatv.xyz-231208-016.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-16/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 17_antmediatv.xyz-231208-017.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-17/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 18_antmediatv.xyz-231208-018.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-18/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 19_antmediatv.xyz-231208-019.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-19/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 1_antmediatv.xyz-231208-001.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-1/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 20_antmediatv.xyz-231208-020.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-20/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 21_antmediatv.xyz-231208-021.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-21/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 22_antmediatv.xyz-231208-022.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-22/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 23_antmediatv.xyz-231208-023.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-23/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 24_antmediatv.xyz-231208-024.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-24/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 25_antmediatv.xyz-231208-025.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-25/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 2_antmediatv.xyz-231208-002.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-2/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 3_antmediatv.xyz-231208-003.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-3/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 4_antmediatv.xyz-231208-004.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-4/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 5_antmediatv.xyz-231208-005.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-5/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 6_antmediatv.xyz-231208-006.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-6/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 7_antmediatv.xyz-231208-007.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-7/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 8_antmediatv.xyz-231208-008.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-8/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",F Sports 9_antmediatv.xyz-231208-009.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/the-thao-9/chunklist_b5500000.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",GAORA SPORTS_vthanhtivi.pw-231208-061.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:0 group-title="Foreign",HBO 2_-231208-119.done
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-#EXTINF:0 group-title="Foreign",HBO Family HD_-231208-070.done
-http://sub-livecdn.khanggtivi.xyz/out/v1/d15476c2807d4380b0cc375a7d861752/index.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="Foreign",HBO Hits HD_-231208-071.done
-http://sub-livecdn.khanggtivi.xyz/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/index.m3u8
-#EXTINF:0 group-title="Foreign",HBO Signature HD_-231208-072.done
-http://sub-livecdn.khanggtivi.xyz/out/v1/b37a81eb3585471cb9c639c78edcdefa/index.m3u8
-#EXTINF:0 group-title="Foreign",HCATV5 - Shopping 24h_antmediatv.xyz-231208-093.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/115/auto.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",HTV1_vthanhtivi.pw-231208-028.done
-https://code.vthanhtivi.pw/getlink/mi/rRPC_pYvQB-7h0Xf8ViUQA/1702054018/7/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",HTV1 HD_antmediatv.xyz-231208-059.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/7/hd.m3u8
-#EXTINF:0 group-title="HTV",HTV3 - Cháo TV_vthanhtivi.pw-231208-029.done
-https://code.vthanhtivi.pw/getlink/mi/FLAXY7yPiJy44DiOrMFNvQ/1702054018/110/playlist.m3u8
-#EXTINF:0 group-title="HTV",HTV3_antmediatv.xyz-231208-061.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/110/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",HTV3_vietngatv.m3u-231208-004.done
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="HTV",HTV7_antmediatv.xyz-231208-113.done
-http://vtv.cvmtv.site/HTV7?token=live
-#EXTINF:0 group-title="HTV",HTV7 HD_-231208-045.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/htv7-hd/chunklist_b5128000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTINF:0 group-title="HTV",HTV7 HD_antmediatv.xyz-231208-063.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/128/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",HTV7 HD_vthanhtivi.pw-231208-031.done
-https://code.vthanhtivi.pw/getlink/mi/4NWDQPaIftr0Mstdp8iiHw/1702054018/128/playlist.m3u8
-#EXTINF:0 group-title="HTV",HTV9_antmediatv.xyz-231208-114.done
-http://vtv.cvmtv.site/HTV9?token=live
-#EXTINF:0 group-title="HTV",HTV9 HD_-231208-046.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/htv9-hd/chunklist_b5128000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-#EXTINF:0 group-title="HTV",HTV9 HD_antmediatv.xyz-231208-064.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/190/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",HTV9 HD_vthanhtivi.pw-231208-032.done
-https://code.vthanhtivi.pw/getlink/tv360/fs-XlSZSIwF4ImzAIi3yBA/1702054018/194/playlist.m3u8
-#EXTINF:0 group-title="HTV",HTV Key_antmediatv.xyz-231208-112.done
-http://vtv.cvmtv.site/HTV4?token=live
-#EXTINF:0 group-title="HTV",HTV Key_vietngatv.m3u-231208-005.done
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231208-030.done
-https://code.vthanhtivi.pw/getlink/mi/scJLZ8vx3f5DW_1G0q735Q/1702054018/9/playlist.m3u8
-#EXTINF:0 group-title="HTV",HTV Key HD_antmediatv.xyz-231208-062.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/9/hd.m3u8
-#EXTINF:0 group-title="HTV",HTV Thể Thao_antmediatv.xyz-231208-065.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/18/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",HTV Thể Thao_vthanhtivi.pw-231208-033.done
-https://code.vthanhtivi.pw/getlink/mi/0s2R73UY88wZIU3i9dLMSw/1702054018/18/playlist.m3u8
-#EXTINF:0 group-title="HTV",HTV Thể Thao HD_-231208-044.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=195|user-agent=KhanggTivi
-#EXTINF:0 group-title="Sport",J SPORTS 1_vthanhtivi.pw-231208-056.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:0 group-title="Sport",J SPORTS 2_vthanhtivi.pw-231208-057.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:0 group-title="Sport",J SPORTS 3_vthanhtivi.pw-231208-058.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:0 group-title="Sport",J SPORTS 4_vthanhtivi.pw-231208-059.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:0 group-title="Sport",K+ SPORT1_vietngatv.m3u-231208-007.done
-http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="Sport",K+ SPORT1 HD - MyTV_-231208-018.done
-http://sub-livecdn.khanggtivi.xyz/ksport1_mytv/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
-#EXTINF:0 group-title="Sport",K+ SPORT1 SV2_-231208-016.done
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c|user-agent=KhanggTivi
-#EXTINF:0 group-title="Sport",K+ SPORT2_vietngatv.m3u-231208-008.done
-http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
-#EXTINF:0 group-title="Sport",K+ SPORT2 HD - MyTV_-231208-019.done
-http://sub-livecdn.khanggtivi.xyz/ksport2_mytv/index.fmp4.m3u8?token=OTg5MmYzYzEtZDhmOC1lYjgzLThjNGEtMDBkZWM1NDNhMDg3fHdlYnwyNGIzZDM5ZGI5MDhjZDg3YTE4NDcwNDVkNzQxM2RmMnw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDRBQkE4NXxkODA0YzlhYjIzNzE1YjExNTNlMzZkNTA4MjZjOGQ3NA==
-#EXTINF:0 group-title="Sport",K+ SPORT2 SV2_-231208-017.done
-http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-#EXTINF:0 group-title="HTV",Long An_vthanhtivi.pw-231208-053.done
-https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8|user-agent=VThanhTivi
-#EXTINF:0 group-title="Sport",MY013:Super Sport 1_-231208-124.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
-#EXTINF:0 group-title="Sport",MY014:Super Sport 2_-231208-125.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
-#EXTINF:0 group-title="Sport",MY015:Super Sport 3_-231208-126.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
-#EXTINF:0 group-title="Sport",MY016:Super Sport 4_-231208-127.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
-#EXTINF:0 group-title="Sport",MY022:Super Sport 5_-231208-128.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
-#EXTINF:0 group-title="Foreign",MY059:HBO Hits_-231208-131.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
-#EXTINF:0 group-title="Foreign",MY069:CTI Asia_-231208-132.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71042
-#EXTINF:0 group-title="Foreign",MY072:TVBS ASIA HD_-231208-133.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71045
-#EXTINF:0 group-title="Foreign",MY086:Cinemax HD_-231208-134.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71058
-#EXTINF:0 group-title="Foreign",MY099:Discovery HD_-231208-135.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71071
-#EXTINF:0 group-title="Foreign",MY100:DISCOVERY ASIA_-231208-136.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71072
-#EXTINF:0 group-title="Foreign",MY101:Discovery Science_-231208-137.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71073
-#EXTINF:0 group-title="Foreign",MY103:ANIMAL PLANET HD_-231208-138.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71075
-#EXTINF:0 group-title="Sport",MY107:Astro SuperSport Events 6_-231208-129.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71079
-#EXTINF:0 group-title="Foreign",MY128:ANIMAX_-231208-139.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71100
-#EXTINF:0 group-title="Sport",MY129:bEIN Sports 3_-231208-140.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71101
-#EXTINF:0 group-title="Sport",MY132:beIN SPORTS_-231208-141.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71104
-#EXTINF:0 group-title="Sport",MY134:EUROSPORT HD_-231208-142.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71106
-#EXTINF:0 group-title="Foreign",MY141:FRANCE24 HD_-231208-143.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71113
-#EXTINF:0 group-title="Sport",MY146:beIN Sports 2_-231208-144.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71118
-#EXTINF:0 group-title="Foreign",MY147:BBC Earth HD_-231208-145.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71119
-#EXTINF:0 group-title="Foreign",MY148:BBC Lifestyle_-231208-146.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
-#EXTINF:0 group-title="Foreign",MY150:BBC World News_-231208-147.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71122
-#EXTINF:0 group-title="Sport",MY177:Astro SuperSport Events 3_-231208-130.done
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71146
-#EXTINF:0 group-title="Sport",ON Sports+_antmediatv.xyz-231208-039.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab6-on-sport-plus/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",ON Sports+_vthanhtivi.pw-231208-021.done
-http://edge.vthanhtivi.pw/ON_Sports_Plus/index.m3u8
-#EXTINF:0 group-title="Sport",ON Sports HD_antmediatv.xyz-231208-038.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab3-on-sports/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",ON Sports HD_vthanhtivi.pw-231208-020.done
-http://edge.vthanhtivi.pw/ON_Sports/index.m3u8
-#EXTINF:0 group-title="Sport",ON Sports News_antmediatv.xyz-231208-042.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab18-on-sports-news/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",ON Sports News_vthanhtivi.pw-231208-022.done
-http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="SCTV",SCTV10_-231208-057.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv10-0faf313b/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV10_antmediatv.xyz-231208-076.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv10/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV11 HD_-231208-058.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv11-1d565c47/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV11 HD_antmediatv.xyz-231208-077.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv11/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV12 HD_-231208-059.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv12-b0d6c023/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV12 HD_antmediatv.xyz-231208-078.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv12/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV13 HD_-231208-060.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv13-67f88fcb/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV13 HD_antmediatv.xyz-231208-079.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv13/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV14 HD_-231208-061.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/sctv14/api_playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="SCTV",SCTV14 HD_antmediatv.xyz-231208-080.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv14/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV15 HD_antmediatv.xyz-231208-081.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv15/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV16 HD_-231208-062.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/sctv16/api_playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="SCTV",SCTV16 HD_antmediatv.xyz-231208-082.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv16/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV17 HD_-231208-063.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv17-hd-87f0ff9d/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV17 HD_antmediatv.xyz-231208-083.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv17/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV18 HD_-231208-064.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv18-398b0b4e/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV18 HD_antmediatv.xyz-231208-084.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv18/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV19 HD_-231208-065.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv19-bf00bd02/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV19 HD_antmediatv.xyz-231208-085.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv19/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV1 HD_-231208-048.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv1-hd-7f2aafec/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV1 HD_antmediatv.xyz-231208-067.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv1/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV20 HD_-231208-066.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv19-cb98949a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV20 HD_antmediatv.xyz-231208-086.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv20/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV21 HD_-231208-067.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv-21-57de221a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV21 HD_antmediatv.xyz-231208-087.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv21/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV22 HD_-231208-068.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv22-d388dc25/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV22 HD_antmediatv.xyz-231208-088.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv22/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV2 HD_-231208-049.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv2-57c3884d/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV2 HD_antmediatv.xyz-231208-068.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv2/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV3 HD_-231208-050.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv3-hd-cf3adaca/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV3 HD_antmediatv.xyz-231208-069.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv3/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV4 HD_-231208-051.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv4-ae779f7e/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV4 HD_antmediatv.xyz-231208-070.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv4/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_-231208-052.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv5-a3cdb592/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_antmediatv.xyz-231208-071.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv5/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV6 FHD_antmediatv.xyz-231208-072.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/232/2.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="SCTV",SCTV6 HD_-231208-053.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv6-202e4566/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV6 HD_vthanhtivi.pw-231208-040.done
-https://code.vthanhtivi.pw/getlink/tv360/zRcq1ksinhgY3ZDEn1AVHg/1702054018/232/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV7 HD_-231208-054.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv7-ef7e259a/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV7 HD_antmediatv.xyz-231208-073.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv7/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV8 HD_-231208-055.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv8-c12d138b/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV8 HD_antmediatv.xyz-231208-074.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv8/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV9 HD_antmediatv.xyz-231208-075.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctv9/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV HD Phim Tổng Hợp_-231208-069.done
-http://f56ba39027.vws.khanggtivi.xyz/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV Phim Tổng Hợp_antmediatv.xyz-231208-089.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/sctvonline/sctvpth/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="Sport",Sky Sports Epl_antmediatv.xyz-231208-106.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/stream/skysportsepl/master.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Sport",Sky Sports F1_kkk.m3u?dl=0-231208-052.done
-http://yurendtv.my.id/cricfree/index.m3u8?id=skysfor1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTINF:0 group-title="Sport",Sony Sport1_-231208-113.done
-http://103.120.172.74:5400
-#EXTINF:0 group-title="Sport",Sony Sport5_-231208-112.done
-http://103.120.172.74:5300
-#EXTINF:0 group-title="Sport",Star sports1_-231208-107.done
-http://103.120.172.74:4100
-#EXTINF:0 group-title="Sport",Star sports1_-231208-109.done
-http://103.120.172.74:4600
-#EXTINF:0 group-title="Sport",Star sports2_-231208-108.done
-http://103.120.172.74:4200
-#EXTINF:0 group-title="Sport",Star sports2_-231208-110.done
-http://103.120.172.74:4700
-#EXTINF:0 group-title="Sport",Star sports2_-231208-111.done
-http://103.120.172.74:4800
-#EXTINF:0 group-title="Sport",Star Sports Select 2_antmediatv.xyz-231208-117.done
-http://free.cvmtv.site/StarSL2?token=live
-#EXTINF:0 group-title="HTV",THTV2 HD | TH Trà Vinh_antmediatv.xyz-231208-099.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon/tra-vinh-2/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THTV HD | TH Trà Vinh_antmediatv.xyz-231208-098.done
-http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THVL1_antmediatv.xyz-231208-115.done
-http://vtv.cvmtv.site/VL1?token=live
-#EXTINF:0 group-title="HTV",THVL1 HD_antmediatv.xyz-231208-094.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/25/2.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="HTV",THVL2_antmediatv.xyz-231208-116.done
-http://vtv.cvmtv.site/VL2?token=live
-#EXTINF:0 group-title="HTV",THVL2 HD_antmediatv.xyz-231208-095.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/423/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",THVL3 HD_antmediatv.xyz-231208-096.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/219/2.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="HTV",THVL4 HD_antmediatv.xyz-231208-097.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/220/2.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Sport",TNT Sports 1_antmediatv.xyz-231208-108.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/stream/tntsports1/master.m3u8
-#EXTINF:0 group-title="Sport",TNT Sports 2_antmediatv.xyz-231208-109.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/stream/tntsports2/master.m3u8
-#EXTINF:0 group-title="Sport",TNT Sports 3_antmediatv.xyz-231208-110.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/stream/tntsports3/master.m3u8
-#EXTINF:0 group-title="Sport",TNT Sports 4_antmediatv.xyz-231208-111.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/stream/tntsports4/master.m3u8
-#EXTINF:0 group-title="Sport",TNT SPORTS CHI_-231208-123.done
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:0 group-title="Foreign",TV5Monde_antmediatv.xyz-231208-102.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/fptplay/tv5-monde/chunklist_b2500000.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",TV5Monde_vthanhtivi.pw-231208-045.done
-https://code.vthanhtivi.pw/getlink/vieon2/tv5-monde-asie/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",TV5MONDE HD_-231208-076.done
-https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/playlist.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="Sport",TYC SPORTS_-231208-114.done
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:0 group-title="HTV",Vĩnh Long 1 HD_-231208-078.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=25|user-agent=KhanggTivi
-#EXTINF:0 group-title="HTV",Vĩnh Long 2 HD_-231208-079.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=26|user-agent=KhanggTivi
-#EXTINF:0 group-title="HTV",Vĩnh Long 3 HD_-231208-080.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=219|user-agent=KhanggTivi
-#EXTINF:0 group-title="HTV",Vĩnh Long 4 HD_-231208-081.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=220|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VOVTV HD_antmediatv.xyz-231208-092.done
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VOVTV HD_vthanhtivi.pw-231208-041.done
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC10_-231208-036.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=204|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC10 HD_antmediatv.xyz-231208-053.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/29/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC11_-231208-037.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=205|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC11_antmediatv.xyz-231208-054.done
-https://1117141481.vnns.net/VTC11/chunks.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC12_antmediatv.xyz-231208-055.done
-https://1117141481.vnns.net/VTC12/chunks.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC13 HD_-231208-038.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=206|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC13 HD_antmediatv.xyz-231208-056.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/184/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC14 HD_-231208-039.done
-https://1117560646.vnns.net/VTC14/playlist.m3u8|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC14 HD_antmediatv.xyz-231208-057.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/32/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC14 HD_vthanhtivi.pw-231208-027.done
-https://code.vthanhtivi.pw/getlink/tv360/2TrSzcoyx_jJPHzVvJJuGA/1702054018/17/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC16 HD_-231208-040.done
-https://1117560646.vnns.net/VTC16/playlist.m3u8|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC16 HD_antmediatv.xyz-231208-058.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/33/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC1 HD_-231208-028.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=16|user-agent="khanggtivi"
-#EXTINF:0 group-title="VTC",VTC1 HD_antmediatv.xyz-231208-045.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/188/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC1 HD_vthanhtivi.pw-231208-025.done
-https://code.vthanhtivi.pw/getlink/tv360/BKCa96cbmDKTxjXtAmY1ew/1702054018/16/playlist.m3u8
-#EXTINF:0 group-title="VTC",VTC2_-231208-029.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=196|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC2_antmediatv.xyz-231208-046.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/196/0.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC4_-231208-030.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=198|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC4 HD_antmediatv.xyz-231208-047.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/396/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC5_-231208-031.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=199
-#EXTINF:0 group-title="VTC",VTC5 HD_antmediatv.xyz-231208-048.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/397/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC6_-231208-032.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=200|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC6 HD_antmediatv.xyz-231208-049.done
-https://1117141481.vnns.net/VTC6/chunks.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC7_-231208-033.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=201|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_antmediatv.xyz-231208-050.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/398/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_vthanhtivi.pw-231208-026.done
-https://code.vthanhtivi.pw/getlink/tv360/TZRIYhP02wyE3HaKMJ_CbA/1702054018/201/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC8_-231208-034.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=202|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTC",VTC8_antmediatv.xyz-231208-051.done
-https://1117141481.vnns.net/VTC8/chunks.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTC",VTC9_-231208-035.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=203|user-agent=Khanggtivi
-#EXTINF:0 group-title="VTC",VTC9 HD_antmediatv.xyz-231208-052.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/399/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTV",VTV1 - Độ trễ thấp_vthanhtivi.pw-231208-005.done
-http://fpt.vthanhtivi.pw/VTV1/mpegts
-#EXTINF:0 group-title="VTV",VTV1_antmediatv.xyz-231208-026.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/210/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTV",VTV1_vthanhtivi.pw-231208-008.done
-https://code.vthanhtivi.pw/getlink/mi/ZTygoC2aObo8XaYT6p7uYQ/1702054018/210/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV1 HD_-231208-002.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv1-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV2_antmediatv.xyz-231208-027.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/377/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTV",VTV2_vthanhtivi.pw-231208-009.done
-https://code.vthanhtivi.pw/getlink/tv360/qO_q1gn8w1kFHxqOlGqhTw/1702054018/3/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV2 HD_-231208-003.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv2-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV3 - Độ trễ thấp_vthanhtivi.pw-231208-006.done
-http://fpt.vthanhtivi.pw/VTV3/mpegts
-#EXTINF:0 group-title="VTV",VTV3_antmediatv.xyz-231208-028.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/211/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="VTV",VTV3_vthanhtivi.pw-231208-010.done
-https://code.vthanhtivi.pw/getlink/mi/eNdSDTjkALde8kq4s5sXtg/1702054018/211/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV3 HD_-231208-005.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv3-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV4_vthanhtivi.pw-231208-011.done
-https://code.vthanhtivi.pw/getlink/tv360/Vn_c8c53f6ysqJGHbLVwlQ/1702054018/108/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV4 HD_-231208-006.done
-http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtv4-hd/chunklist_b5128000.m3u8|user-agent=KhanggTivi
-#EXTINF:0 group-title="Foreign",VTV5 - Độ trễ thấp_vthanhtivi.pw-231208-007.done
-http://fpt.vthanhtivi.pw/VTV5/mpegts
-#EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231208-017.done
-https://code.vthanhtivi.pw/getlink/mi/Ic8aS4qFhxpcz7WtEJqAWA/1702054018/379/playlist.m3u8
-#EXTINF:0 group-title="Foreign",VTV5_antmediatv.xyz-231208-030.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/379/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Foreign",VTV5 HD_-231208-007.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=110|user-agent=KhanggTivi
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps_vthanhtivi.pw-231208-018.done
-https://code.vthanhtivi.pw/getlink/mi/_CWwP6piWaXcS4acEKpHhg/1702054018/615/playlist.m3u8
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ_antmediatv.xyz-231208-031.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/615/hd.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_-231208-013.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=207|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_antmediatv.xyz-231208-032.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/207/2.m3u8|user-agent=ANTmedia
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_vthanhtivi.pw-231208-012.done
-https://code.vthanhtivi.pw/getlink/tv360/A9BaKnCbofWJPfWY69kG_Q/1702054018/207/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV7_vthanhtivi.pw-231208-013.done
-https://code.vthanhtivi.pw/getlink/tv360/V765Z1kDaLmlTGP5AIqaZw/1702054018/6/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV7 HD_-231208-009.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=6|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV8_vthanhtivi.pw-231208-014.done
-https://code.vthanhtivi.pw/getlink/tv360/BijgqwxzKuoPmIOg0p740Q/1702054018/115/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV8 HD_-231208-010.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=115|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV9_vthanhtivi.pw-231208-015.done
-https://code.vthanhtivi.pw/getlink/tv360/hvVFzj_7aaTyU8buJV6CqQ/1702054018/8/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV9 HD_-231208-011.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=8|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTVcab 1 - Vie Giải trí_-231208-021.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=180|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab1 - Vie Giải Trí_vietstv-231208-007.done
-https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTVcab 11_-231208-024.done
-https://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab11-vgs-shop/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 11_antmediatv.xyz-231208-040.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab11-vgs-shop/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 13_-231208-047.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=27|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTVcab 13_antmediatv.xyz-231208-041.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab13-home-shopping/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 19 - Vie Dramas_-231208-026.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=177|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 19_antmediatv.xyz-231208-043.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/tv360/177/2.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 19_vthanhtivi.pw-231208-023.done
-https://code.vthanhtivi.pw/getlink/tv360/2fNvmLYR8twebR7nCTo7NA/1702054018/177/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTVcab 1_antmediatv.xyz-231208-037.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/vieon2/vtvcab1-vie-giai-tri-hd/playlist.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:0 group-title="VTV",VTVcab 1_vthanhtivi.pw-231208-019.done
-https://code.vthanhtivi.pw/getlink/tv360/0LMYtKqlD_IWu1sYSRLlNg/1702054018/180/playlist.m3u8
-#EXTINF:0 group-title="VTV",VTV Cần Thơ_-231208-008.done
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=98|user-agent=KhanggTivi
-#EXTINF:0 group-title="VTV",VTV Cần Thơ_antmediatv.xyz-231208-036.done
-https://code.antmediatv.xyz/getplay/8e82c049e7826b91d39002955ec313a165fddb7729a1583e7e8d3300e6247a0907/mytv/212/hd.m3u8|user-agent=ANTmedia
 #EXTINF:0 group-title="VTV",VTV Cần Thơ_vthanhtivi.pw-231208-016.done
 https://code.vthanhtivi.pw/getlink/mi/oqt3uvTqPQLlRG3f650fEA/1702054018/212/playlist.m3u8
-#EXTINF:0 group-title="Foreign",WOWOW Cinema_vthanhtivi.pw-231208-054.done
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:0 group-title="VTV",VTV Cần Thơ HD — THVN_vietngatv.m3u-231130-009.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Sport",01h00-10/12 Vitoria Guimaraes vs Sporting CP_antmediatv.xyz-231208-111.done
+https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=Y3wi7Kz&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",02h00-09/12 Le Havre vs Avignon/Ponte Sports League_antmediatv.xyz-231208-115.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=HZAbi8n&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",02h00-09/12 Poitiers vs Alliance Sport Alsace_antmediatv.xyz-231208-113.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=JBA4XOe&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Foreign",02h00-09/12 Vienna United Post SV Women vs UBSC-DBBC Graz_antmediatv.xyz-231208-114.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=Y2SzbcL&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Foreign",03h00-09/12 Port of Antwerp Giants B vs Oxaco BBC Boechout_antmediatv.xyz-231208-116.done
+https://hoaivnpt.duckdns.org/live-football/thapcam.php?id=FcLHWQy&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="HTV",18h00-10/12 Bình Phước vs  Dong Tam Long An_antmediatv.xyz-231208-120.done
+https://hoaivnpt.duckdns.org/live-football/saoke.php?id=binh-phuoc-vs-dong-tam-long-an-65734df15357c5440daf4e65&.m3u8|Referer=https://sk.mediastation.live/|referer=https://sk.mediastation.live/
+#EXTINF:0 group-title="HTV",18h00-10/12 Bình Phước vs Đồng Tâm Long An_antmediatv.xyz-231208-112.done
+https://hoaivnpt.duckdns.org/live-football/90phut_tv.php?id=wnYliyg&.m3u8|Referer=https://player.4shares.live/|referer=https://player.4shares.live/
+#EXTINF:0 group-title="Sport",[ONSportsNews|Thể Thao Tổng Hợp] - ON Sport News: Kênh tin tức thể thao_vthanhtivi.pw-231208-002.done
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/92551.m3u8
+#EXTINF:0 group-title="Foreign",Asian Food Network_antmediatv.xyz-231208-099.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/298/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Foreign",Asian Food Network_vthanhtivi.pw-231208-034.done
+https://code.vthanhtivi.pw/getlink/tv360/l9c3O12J0q7RR9dPmAqh2A/1702072158/215/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_antmediatv.xyz-231208-044.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/2380/2.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",BTV5 - ON Sports Action_vthanhtivi.pw-231208-016.done
+https://code.vthanhtivi.pw/getlink/tv360/_xTZts3fhpx8aBcPU8_BnQ/1702072158/2380/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",Da Vinci HD_antmediatv.xyz-231208-100.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/294/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 10_antmediatv.xyz-231208-010.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-10/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 11_antmediatv.xyz-231208-011.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-11/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 12_antmediatv.xyz-231208-012.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-12/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 13_antmediatv.xyz-231208-013.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-13/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 14_antmediatv.xyz-231208-014.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-14/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 15_antmediatv.xyz-231208-015.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-15/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 16_antmediatv.xyz-231208-016.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-16/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 17_antmediatv.xyz-231208-017.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-17/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 18_antmediatv.xyz-231208-018.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-18/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 19_antmediatv.xyz-231208-019.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-19/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 1_antmediatv.xyz-231208-001.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-1/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 20_antmediatv.xyz-231208-020.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-20/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 21_antmediatv.xyz-231208-021.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-21/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 22_antmediatv.xyz-231208-022.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-22/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 23_antmediatv.xyz-231208-023.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-23/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 24_antmediatv.xyz-231208-024.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-24/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 25_antmediatv.xyz-231208-025.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-25/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 2_antmediatv.xyz-231208-002.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-2/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 3_antmediatv.xyz-231208-003.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-3/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 4_antmediatv.xyz-231208-004.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-4/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 5_antmediatv.xyz-231208-005.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-5/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 6_antmediatv.xyz-231208-006.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-6/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 7_antmediatv.xyz-231208-007.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-7/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 8_antmediatv.xyz-231208-008.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-8/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",F Sports 9_antmediatv.xyz-231208-009.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/the-thao-9/chunklist_b5500000.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport", [ONSports+|Thể Thao Tổng Hợp] - ON Sport Plus: Kênh thể thao,giải trí_vthanhtivi.pw-231208-001.done
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/92549.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="Foreign",HCATV5 - Shopping 24h_antmediatv.xyz-231208-088.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/115/auto.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",HTV1_vthanhtivi.pw-231208-020.done
+https://code.vthanhtivi.pw/getlink/mi/rbZ2e-gr1_LiMI4e7EbgNQ/1702072158/7/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",HTV1 HD_antmediatv.xyz-231208-055.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/7/hd.m3u8
+#EXTINF:0 group-title="HTV",HTV3 - Cháo TV_vthanhtivi.pw-231208-021.done
+https://code.vthanhtivi.pw/getlink/mi/oj9bTPRfVfVrw2usL4AmjA/1702072158/110/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV3_antmediatv.xyz-231208-057.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/110/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",HTV7 HD_antmediatv.xyz-231208-059.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/128/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",HTV7 HD_vthanhtivi.pw-231208-023.done
+https://code.vthanhtivi.pw/getlink/mi/9kiY0hONlCC2Bo8WRTj9hw/1702072158/128/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV9 HD_antmediatv.xyz-231208-060.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/190/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",HTV9 HD_vthanhtivi.pw-231208-024.done
+https://code.vthanhtivi.pw/getlink/tv360/TWJFgMpYpu5_Cech4UAqqw/1702072158/194/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Key_vthanhtivi.pw-231208-022.done
+https://code.vthanhtivi.pw/getlink/mi/Cy8lXOkNAfQfuHqdygKAwA/1702072158/9/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV Key HD_antmediatv.xyz-231208-058.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/9/hd.m3u8
+#EXTINF:0 group-title="HTV",HTV Thể Thao_antmediatv.xyz-231208-061.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/18/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",HTV Thể Thao_vthanhtivi.pw-231208-025.done
+https://code.vthanhtivi.pw/getlink/mi/tiy5BEN5SwqOE5atELPfuw/1702072158/18/playlist.m3u8
+#EXTINF:0 group-title="Sport",K+SPORT1 - MyK+_antmediatv.xyz-231208-086.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/ksport1/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+#EXTINF:0 group-title="Sport",K+SPORT2 - MyK+_antmediatv.xyz-231208-087.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/ksport2/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+#EXTINF:0 group-title="SCTV",SCTV10_antmediatv.xyz-231208-072.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv10/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV11 HD_antmediatv.xyz-231208-073.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv11/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV12 HD_antmediatv.xyz-231208-074.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv12/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV13 HD_antmediatv.xyz-231208-075.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv13/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV14 HD_antmediatv.xyz-231208-076.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv14/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV15 HD_antmediatv.xyz-231208-077.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv15/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV16 HD_antmediatv.xyz-231208-078.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv16/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV17 HD_antmediatv.xyz-231208-079.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv17/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV18 HD_antmediatv.xyz-231208-080.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv18/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV19 HD_antmediatv.xyz-231208-081.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv19/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV1 HD_antmediatv.xyz-231208-063.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv1/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV20 HD_antmediatv.xyz-231208-082.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv20/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV21 HD_antmediatv.xyz-231208-083.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv21/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV22 HD_antmediatv.xyz-231208-084.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv22/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV2 HD_antmediatv.xyz-231208-064.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv2/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV3 HD_antmediatv.xyz-231208-065.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv3/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV4 HD_antmediatv.xyz-231208-066.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv4/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",SCTV5 HD - SCJ_antmediatv.xyz-231208-067.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv5/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV6 FHD_antmediatv.xyz-231208-068.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/232/2.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="SCTV",SCTV6 HD_vthanhtivi.pw-231208-032.done
+https://code.vthanhtivi.pw/getlink/tv360/YarBnlbJq06x-wDjGExcYA/1702072158/232/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV7 HD_antmediatv.xyz-231208-069.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv7/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV8 HD_antmediatv.xyz-231208-070.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv8/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV9 HD_antmediatv.xyz-231208-071.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctv9/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="SCTV",SCTV Phim Tổng Hợp_antmediatv.xyz-231208-085.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/sctvonline/sctvpth/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Sport",Sky Sport Mix_antmediatv.xyz-231208-110.done
+http://free.cvmtv.site/skymix?token=live
+#EXTINF:0 group-title="Sport",Sky Sport Premier League_antmediatv.xyz-231208-109.done
+http://free.cvmtv.site/skypl?token=live
+#EXTINF:0 group-title="HTV",THVL1 HD_antmediatv.xyz-231208-089.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/25/2.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="HTV",THVL2 HD_antmediatv.xyz-231208-090.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/423/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",THVL3 HD_antmediatv.xyz-231208-091.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/219/2.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="HTV",THVL4 HD_antmediatv.xyz-231208-092.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/220/2.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Sport",TNT Sports 1_antmediatv.xyz-231208-105.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/tntsports1/master.m3u8
+#EXTINF:0 group-title="Sport",TNT Sports 2_antmediatv.xyz-231208-106.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/tntsports2/master.m3u8
+#EXTINF:0 group-title="Sport",TNT Sports 3_antmediatv.xyz-231208-107.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/tntsports3/master.m3u8
+#EXTINF:0 group-title="Sport",TNT Sports 4_antmediatv.xyz-231208-108.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/stream/tntsports4/master.m3u8
+#EXTINF:0 group-title="Foreign",TV5Monde_antmediatv.xyz-231208-098.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/fptplay/tv5-monde/chunklist_b2500000.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC10 HD_antmediatv.xyz-231208-051.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/29/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC13 HD_antmediatv.xyz-231208-052.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/184/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC14 HD_antmediatv.xyz-231208-053.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/32/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC14 HD_vthanhtivi.pw-231208-019.done
+https://code.vthanhtivi.pw/getlink/tv360/qyphhdx19jY3Skgx3SaShA/1702072158/17/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC16 HD_antmediatv.xyz-231208-054.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/33/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC1 HD_antmediatv.xyz-231208-045.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/188/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC1 HD_vthanhtivi.pw-231208-017.done
+https://code.vthanhtivi.pw/getlink/tv360/3a_jXBhyaTmbyQRYFJg5vw/1702072158/16/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC2_antmediatv.xyz-231208-046.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/196/0.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC4 HD_antmediatv.xyz-231208-047.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/396/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC5 HD_antmediatv.xyz-231208-048.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/397/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_antmediatv.xyz-231208-049.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/398/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_vthanhtivi.pw-231208-018.done
+https://code.vthanhtivi.pw/getlink/tv360/OAQmKmUmyNxi8RkEvLUk1A/1702072158/201/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC9 HD_antmediatv.xyz-231208-050.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/399/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTV",VTV1_antmediatv.xyz-231208-026.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/210/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTV",VTV1_vthanhtivi.pw-231208-003.done
+https://code.vthanhtivi.pw/getlink/mi/9P63MEZOnkSBnKBjHiaPEw/1702072158/210/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV2_antmediatv.xyz-231208-027.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/377/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTV",VTV2_vthanhtivi.pw-231208-004.done
+https://code.vthanhtivi.pw/getlink/tv360/W1zFv-6YqN-urs_Kij0yZw/1702072158/3/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV2 HD_vietngatv.m3u-231208-001.done
+https://thick.ddns.net/nice/2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV3_antmediatv.xyz-231208-028.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/211/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTV",VTV3_vthanhtivi.pw-231208-005.done
+https://code.vthanhtivi.pw/getlink/mi/RucqQK2si1SGImUGY-mAUQ/1702072158/211/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV4_vthanhtivi.pw-231208-006.done
+https://code.vthanhtivi.pw/getlink/tv360/O0im5EkkyyguNqJbXntIAw/1702072158/108/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5 50fps_vthanhtivi.pw-231208-012.done
+https://code.vthanhtivi.pw/getlink/mi/KmWv9H0zX6RCdnqhfCo_Yg/1702072158/379/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5_antmediatv.xyz-231208-030.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/379/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ 50fps_vthanhtivi.pw-231208-013.done
+https://code.vthanhtivi.pw/getlink/mi/RPp7RlDpAAgxytaNnxmEpA/1702072158/615/playlist.m3u8
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ_antmediatv.xyz-231208-031.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/615/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_antmediatv.xyz-231208-032.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/207/2.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên_vthanhtivi.pw-231208-007.done
+https://code.vthanhtivi.pw/getlink/tv360/KQ2ABMK58Hbzd83SmYUtvg/1702072158/207/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV7_vthanhtivi.pw-231208-008.done
+https://code.vthanhtivi.pw/getlink/tv360/e8r0yYw_ADmWR1hQIdIC6g/1702072158/6/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV8_vthanhtivi.pw-231208-009.done
+https://code.vthanhtivi.pw/getlink/tv360/QPAHROmBdIEkd3CFHXxRrw/1702072158/115/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV9_vthanhtivi.pw-231208-010.done
+https://code.vthanhtivi.pw/getlink/tv360/-XRfLKiJB1pS-gzSqlDcXg/1702072158/8/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTVcab 19_antmediatv.xyz-231208-043.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/tv360/177/2.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV",VTVcab 19_vthanhtivi.pw-231208-015.done
+https://code.vthanhtivi.pw/getlink/tv360/Rlm1fqH4W0L80bgmFjmhng/1702072158/177/playlist.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV",VTVcab 1_vthanhtivi.pw-231208-014.done
+https://code.vthanhtivi.pw/getlink/tv360/Nj8nK2N5eGCmjF5GH4CPpA/1702072158/180/playlist.m3u8
+#EXTINF:0 group-title="VTV",VTV Cần Thơ_antmediatv.xyz-231208-036.done
+https://code.antmediatv.xyz/getplay/38e348894dab59f71fb3a74d7bf302ca49d97a842a24ef8ecb6fc2a751cae79ff8/mytv/212/hd.m3u8|user-agent=ANTmedia
+#EXTINF:0 group-title="VTV",VTV Cần Thơ_vthanhtivi.pw-231208-011.done
+https://code.vthanhtivi.pw/getlink/mi/-UvVBypsi2UBnG9DVXFOUw/1702072158/212/playlist.m3u8
