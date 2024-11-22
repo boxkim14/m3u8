@@ -1,5 +1,5 @@
-#EXTM3U 446
-#DATE 4->446 - OK: 446 Risk: 0 Fail: 289
+#EXTM3U 618
+#DATE 4->618 - OK: 618 Risk: 0 Fail: 406
 #EXTINF:0 group-title="Foreign",$ Animal Planet HD_kkk.m3u?dl=0-231130-069.done
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:0 group-title="Foreign",$ Animax HD_kkk.m3u?dl=0-231130-067.done
@@ -22,6 +22,20 @@ https://dl.dropboxusercontent.com/s/hbxnyii5eyfvwkq/getlink/mytv/vtv5tnb_hd/vtv5
 https://dl.dropboxusercontent.com/s/empgge02vawn930/getlink/tv360_vthanh/vtv5tn_hd/vtv5tn.m3u8?id=vtv5-tn-hd|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Foreign",ディズニージュニア / Disney Junior_vthanhtivi.pw-231208-062.done
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:0 group-title="Foreign",02:00 19.11 | Premier League International Cup | Nottingham Forest U21 vs Jong Ajax (R)_123-241118-103.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fnottingham-forest-u21-vs-jong-ajax-r-luc-0200-ngay-19-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN Sports 2 France_123-241118-026.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/117/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Tunisia vs Gambia | beIN Sports 3 France_123-241118-016.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/118/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Fox Sports 2 USA_123-241118-035.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/758/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | L'Equipe France_123-241118-054.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/645/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Fox Soccer Plus_123-241118-062.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/756/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sport TV5 Portugal_123-241118-092.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/290/test/123/playlist.mpegts
 #EXTINF:0 group-title="Foreign",Aljazeera International HD_vietngatv.m3u-240414-055.done
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 group-title="Foreign",Animal Planet_kiptv.m3u-231124-072.done
@@ -178,14 +192,26 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|user-agent=ReactNativ
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="HTV",HTV9 HD_vietngatv.m3u-240426-020.done
 http://home1.tranducanh.com:4444/udp/225.1.4.11:30120|referer=http://sctvonline.vn
+#EXTINF:0 group-title="HTV",HTVC+ (50fps)_123-241118-139.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.181/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Ca Nhạc (50fps)_123-241118-133.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.185/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Du Lịch và Cuộc Sống (50fps)_123-241118-134.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.166/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Gia Đình (50fps)_123-241118-135.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.170/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Phim (50fps)_123-241118-136.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.184/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Phụ Nữ (50fps)_123-241118-137.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.171/test/123/playlist.mpegts
+#EXTINF:0 group-title="HTV",HTVC Thuần Việt (50fps)_123-241118-138.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.186/test/123/playlist.mpegts
 #EXTINF:0 group-title="HTV",HTV Key_vietngatv.m3u-231208-005.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="HTV",HTV Key_vietngatv.m3u-240414-027.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="HTV",HTV Thể Thao_vietngatv.m3u-240426-021.done
 http://home1.tranducanh.com:4444/udp/225.1.4.60:30120
-#EXTINF:0 group-title="HTV",Long An_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-076.done
-https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8|user-agent=VThanhTivi
 #EXTINF:0 group-title="HTV",Long An_vthanhtivi.pw-231208-053.done
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8|user-agent=VThanhTivi
 #EXTINF:0 group-title="HTV",THTV - Trà Vinh HD_pcriptv-231130-068.done
@@ -194,6 +220,8 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 #EXTINF:0 group-title="HTV",THTV2 HD | TH Trà Vinh_vthanhtivi.pw-240226-086.done
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w1517537898.m3u8
+#EXTINF:0 group-title="HTV",THTV HD _ TH Trà Vinh (50fps)_123-241118-147.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.172/test/123/playlist.mpegts
 #EXTINF:0 group-title="HTV",THTV HD | TH Trà Vinh_antmediatv.xyz-231208-098.done
 http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="HTV",THTV HD | TH Trà Vinh_vthanhtivi.pw-231130-086.done
@@ -214,6 +242,10 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|user-agent=ReactNativ
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="Music",$ Fashion TV HD_kkk.m3u?dl=0-231130-080.done
 https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd|user-agent="Khanggne"
+#EXTINF:0 group-title="Music",02:30 19.11 | Serie B Basket | New Basket Brindisi vs Assigeco Banca Popolare_123-241118-104.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fnew-basket-brindisi-vs-assigeco-banca-popolare-luc-0230-ngay-19-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Music",Fashion TV (50fps)_123-241118-159.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.227/test/123/playlist.mpegts
 #EXTINF:0 group-title="Music",Fashion TV 4K_kiptv.m3u-231124-079.done
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 #EXTINF:0 group-title="Music",Fashion TV 4K_kkk.m3u?dl=0-231130-092.done
@@ -250,24 +282,18 @@ https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294de
 https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
 #EXTINF:0 group-title="SCTV",Fim 360 - SCTV6_kiptv.m3u-231124-048.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 10_bearlivetv-231130-028.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV10_kkk.m3u?dl=0-231130-050.done
 https://dl.dropboxusercontent.com/s/smvxx6vgo4vuafd/getlink/sctv/url=https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s1/index.m3u8?khanggtv|Referer=http://sctvonline.vn|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV10_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-045.done
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV10_vietngatv.m3u-240414-040.done
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 11_bearlivetv-231130-029.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV11_vietngatv.m3u-231130-065.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV11 HD_kkk.m3u?dl=0-231130-051.done
 https://dl.dropboxusercontent.com/s/jirfenbjp2dzsht/getlink/sctv/url=https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8?khanggtv|Referer=http://sctvonline.vn/|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV11 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-046.done
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 12 - Du Lịch_bearlivetv-231130-030.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV12_vietngatv.m3u-231130-066.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV12_vietngatv.m3u-240414-041.done
@@ -276,10 +302,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/index.m3u8?|user-agent=ReactNat
 https://dl.dropboxusercontent.com/s/vl0msvjwf3zdg8y/getlink/sctv/url=https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8?khanggtv|Referer=http://sctvonline.vn
 #EXTINF:0 group-title="SCTV",SCTV12 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-047.done
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=https://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 12 QT HD - Du Lịch_47shopiptvbk-231130-118.done
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
-#EXTINF:0 group-title="SCTV",SCTV 13 - Phụ nữ & Gia đình_bearlivetv-231130-031.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV13_vietngatv.m3u-231130-067.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV13_vietngatv.m3u-240414-042.done
@@ -300,8 +322,6 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV15 HD - SSPORT 2_47shopiptvbk-231130-122.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
-#EXTINF:0 group-title="SCTV",SCTV 16 - Phim Nước Ngoài_bearlivetv-231130-034.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV16_vietngatv.m3u-231130-070.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV16_vietngatv.m3u-240414-045.done
@@ -316,8 +336,6 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/playlist.m3u8|user-a
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV17 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-052.done
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 18_bearlivetv-231130-036.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV18_vietngatv.m3u-231130-072.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV18_vietngatv.m3u-240414-047.done
@@ -344,12 +362,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|Referer=http://sc
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV1_vietngatv.m3u-240414-031.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 1 HD - Hài_47shopiptvbk-231130-109.done
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV1 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-036.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 20_bearlivetv-231130-038.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV20_vietngatv.m3u-231130-074.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV20_vietngatv.m3u-240414-049.done
@@ -358,8 +372,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?|user-agent=Reac
 https://dl.dropboxusercontent.com/s/po8lqm7n93cjptw/getlink/sctv/url=https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/s1/index.m3u8?khanggtv|Referer=http://sctvonline.vn|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV20 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-055.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 21 - Ký ức Việt Nam_bearlivetv-231130-039.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV21_vietngatv.m3u-231130-075.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV21_vietngatv.m3u-240414-050.done
@@ -370,8 +382,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://
 https://dl.dropboxusercontent.com/s/b5k4lxap0eo2cmt/getlink/sctv/url=https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/s1/index.m3u8?khanggtv|Referer=http://sctvonline.vn/index.m3u8|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV21 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-056.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 22 - SSPORT1_bearlivetv-231130-040.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV22_vietngatv.m3u-231130-076.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV22_vietngatv.m3u-240414-051.done
@@ -398,8 +408,6 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|Referer=http://sc
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV3_vietngatv.m3u-240414-033.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 3 HD - SEE TV_47shopiptvbk-231130-111.done
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV3 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-038.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV 4 - Giải trí tổng hợp_bearlivetv-231130-022.done
@@ -416,24 +424,18 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8?|user-agent=ReactNati
 https://dl.dropboxusercontent.com/s/6ndumwbxur43vfc/getlink/tv360/url=https://live-zlr1.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV6 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-041.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=VThanhTivi
-#EXTINF:0 group-title="SCTV",SCTV 7 - Sân Khấu_bearlivetv-231130-025.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV7_kiptv.m3u-231124-049.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?kiptv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV7_vietngatv.m3u-231130-061.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV7_vietngatv.m3u-240414-037.done
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 7 HD - Sân Khấu_47shopiptvbk-231130-114.done
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV7 HD_kkk.m3u?dl=0-231130-047.done
 https://dl.dropboxusercontent.com/s/tofa0n7ai9q3eu4/getlink/sctv/e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?khanggtv|Referer=http://sctvonline.vn|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV7 HD_tivi-hd-44?fbclid=IwZXh0bgNhZW0CMTAAAR0NWCHKLjHOsP8KIC8YEkmAcuaKA8bPLUgF7tRywBi3qcTPWd54Foij34k_aem_ZmFrZWR1bW15MTZieXRlcw-240823-042.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV8-VITV - Kinh Tế Tài Chính_47shopiptvbk-231130-115.done
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
-#EXTINF:0 group-title="SCTV",SCTV 8-VITV - Kinh Tế Tài Chính_bearlivetv-231130-026.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|Referer=http://sctvonline.vn/|user-agent="BearTV"
 #EXTINF:0 group-title="SCTV",SCTV8_vietngatv.m3u-240414-038.done
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV8 HD_kkk.m3u?dl=0-231130-048.done
@@ -442,8 +444,6 @@ https://dl.dropboxusercontent.com/s/6h9qy7vtvmcp4c7/getlink/sctv/url=https://e1.
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV8 — VITV_vietngatv.m3u-231130-062.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV 9_bearlivetv-231130-027.done
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV9_vietngatv.m3u-231130-063.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="SCTV",SCTV9_vietngatv.m3u-240414-039.done
@@ -454,12 +454,170 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?khichtv|Referer=h
 https://dl.dropboxusercontent.com/s/jn9n16dzfq2lgvo/getlink/sctv/url=https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?khanggtivi|Referer=http://sctvonline.vn/|user-agent="Khanggtv"
 #EXTINF:0 group-title="SCTV",SCTV Phim TH_vietngatv.m3u-240414-052.done
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:0 group-title="SCTV",SCTV PHIM TỔNG HỢP_47shopiptvbk-231130-130.done
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/|user-agent="47 TV"
 #EXTINF:0 group-title="SCTV",SCTV PHIM TỔNG HỢP_bearlivetv-231130-041.done
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/|user-agent="Bear TV"
 #EXTINF:0 group-title="SCTV",SCTV Phim Tổng Hợp_vietngatv.m3u-231130-077.done
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Sport",18/11-22:00 | Polish league (w) : Kalisz vs Bielsko Biala | Sport Klub 1 Serbia_123-241118-001.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/101/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Ghana vs Niger | Sportdigital FUSSBALL DE_123-241118-005.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/571/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Libya vs Benin | beIN Sports MENA 3 HD_123-241118-003.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/93/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Libya vs Benin | Canal+ Sport 1 Afrique_123-241118-002.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/486/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Sudan vs Angola | beIN Sports MENA 2 HD_123-241118-007.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/92/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Sudan vs Angola | Sport TV1 Portugal_123-241118-006.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/49/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:00 | LIVE Billie Jean King Cup SF1 | Supersport Tennis_123-241118-004.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/423/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",18/11-23:30 | Orlen Liga Women : Mielec W vs Rzeszow W | Polsat Sport Poland_123-241118-008.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/47/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Magenta Sport 301_123-241118-010.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/1/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Sport1 DE_123-241118-009.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/641/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Vodafone Sport_123-241118-011.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/260/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Comoros vs Madagascar | beIN Sports MENA 4 HD_123-241118-012.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/94/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Comoros vs Madagascar | Canal+ Sport 2 Afrique_123-241118-013.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/487/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN SPORTS en Español_123-241118-021.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/372/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN SPORTS USA_123-241118-020.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/425/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | Sport TV4 Portugal_123-241118-027.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/289/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | European Rally Championship Ekpompi Grand Prix 2024 | Cosmote Sport 5 HD_123-241118-015.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/626/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Arena Sport 4 Serbia_123-241118-019.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/581/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Cosmote Sport 7 Greece_123-241118-018.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/628/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Polsat Sport Premium 3 Poland_123-241118-017.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/14/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | RAI Sport 1 IT_123-241118-031.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/882/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | Sky Sport 251 IT_123-241118-032.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/3/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | Sky Sport Calcio IT_123-241118-030.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/870/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:30 | Orlen Liga Women : Opole W vs Mogilno W | Polsat Sport 2 Poland_123-241118-029.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/50/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Bulgaria vs Belarus | Sky Sport 7 NZ_123-241118-068.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/594/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Bulgaria vs Belarus | SuperSport Laliga_123-241118-067.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/415/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | beIN Sports MENA 1 HD_123-241118-051.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/91/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | beIN Sports MENA English 1 HD_123-241118-050.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/61/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Diema Sport 2 Bulgaria_123-241118-055.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/466/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Digi Sport 1 Romania_123-241118-060.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/400/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Nova Sports 2 Greece_123-241118-057.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/632/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Prima Sport 2 Romania_123-241118-059.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/584/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Sky Sport 3 NZ_123-241118-044.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/590/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Sport 2 Israel_123-241118-049.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/141/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | SporTV BR_123-241118-053.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/78/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | SuperSport Premier League_123-241118-052.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/414/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | V Sport Premium_123-241118-056.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/10/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Ziggo Sport 3 NL_123-241118-046.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/11/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Kosovo vs Lithuania | Sky Sport 6 NZ_123-241118-071.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/593/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | beIN Sports MENA English 2 HD_123-241118-072.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/90/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Nova Sport Bulgaria_123-241118-074.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/468/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Sky Sport 5 NZ_123-241118-077.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/592/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Sport TV6 Portugal_123-241118-076.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/291/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | SuperSport Variety 2_123-241118-073.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/417/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Arena Sport 3 Premium Serbia_123-241118-040.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/139/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | beIN Sports MENA 6 HD_123-241118-037.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/96/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Nova Sports Premier League Greece_123-241118-039.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/599/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Prima Sport 3 Romania_123-241118-041.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/585/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sky Sport 2 NZ_123-241118-043.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/589/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sport 1 Israel_123-241118-036.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/140/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sport TV3 Portugal_123-241118-042.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/454/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | SporTV2 BR_123-241118-033.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/79/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | SuperSport Variety 3_123-241118-038.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/418/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | TVP Sport Poland_123-241118-047.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/128/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Romania vs Cyprus | Nova Sports 3 Greece_123-241118-048.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/633/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Arena Sport 1 Premium Serbia_123-241118-093.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/134/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | beIN Sports MENA 8 HD_123-241118-089.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/98/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Diema Sport Bulgaria_123-241118-084.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/465/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Digi Sport 4 Romania_123-241118-087.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/403/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Nova Sports 4 Greece_123-241118-085.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/634/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Polsat Sport Premium 1 Poland_123-241118-088.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/7/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Prima Sport 4 Romania_123-241118-086.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/586/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sky Sport Select NZ_123-241118-091.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/587/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sport 3 Israel_123-241118-066.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/142/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | SuperSport PSL_123-241118-082.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/413/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | V Sport Football_123-241118-061.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/8/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Simulcast | Nova Sports Prime Greece_123-241118-078.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/638/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | beIN Sports MENA 5 HD_123-241118-095.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/95/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Diema Sport 3 Bulgaria_123-241118-098.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/467/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Digi Sport 3 Romania_123-241118-079.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/402/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Nova Sports 1 Greece_123-241118-090.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/631/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Polsat Sport 3 Poland_123-241118-064.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/129/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Prima Sport 1 Romania_123-241118-070.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/583/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sky Sport 1 NZ_123-241118-080.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/588/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sport 4 Israel_123-241118-094.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/143/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sport TV2 Portugal_123-241118-065.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/74/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | SuperSport Football_123-241118-096.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/56/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | TV2 Sport X Denmark_123-241118-099.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/808/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Ziggo Sport 2 NL_123-241118-081.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/398/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",19/11-05:15 | Argentina - Primera División : Defensa y Justicia vs Deportivo Riestra | TNT Sports Argentina_123-241118-102.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/388/test/123/playlist.mpegts
 #EXTINF:0 group-title="SPORT",BEIN SPORTS XTRA_kkk.m3u?dl=0-231130-100.done
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:0 group-title="Sport",EDGE Sport_vthanhtivi.pw-240106-085.done
@@ -486,36 +644,84 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports1.m3u8|user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:0 group-title="Sport",Viju+ Sport_vietngatv.m3u-240414-082.done
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8|user-agent=ExoPlayer2/2.37
+#EXTINF:0 group-title="THVL",LA34 _ TH Long An_123-241118-148.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.162/test/123/playlist.mpegts
+#EXTINF:0 group-title="THVL",THVL1 HD _ TH Vĩnh Long (50fps)_123-241118-143.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.155/test/123/playlist.mpegts
+#EXTINF:0 group-title="THVL",THVL2 HD _ TH Vĩnh Long (50fps)_123-241118-144.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.154/test/123/playlist.mpegts
+#EXTINF:0 group-title="THVL",THVL3 HD _ TH Vĩnh Long (50fps)_123-241118-145.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.235/test/123/playlist.mpegts
+#EXTINF:0 group-title="THVL",THVL4 HD _ TH Vĩnh Long (50fps)_123-241118-146.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.25/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC10 HD (50fps)_123-241118-122.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.194/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC11_123-241118-128.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.193/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTC",VTC13 4K ( Thử Nghiệm )_47shopiptvbk-231130-144.done
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:0 group-title="VTC",VTC13 4K_vietngatv.m3u-231130-036.done
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 #EXTINF:0 group-title="VTC",VTC13 HD_iptv-all.m3u-231130-022.done
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC14 HD (50fps)_123-241118-123.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.88/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC16 HD (50fps)_123-241118-124.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.190/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTC",VTC1_vietngatv.m3u-231130-017.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTC",VTC1 HD (50fps)_123-241118-116.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.254/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTC",VTC1 HD_kkk.m3u?dl=0-231130-039.done
 https://dl.dropboxusercontent.com/s/ctr1xcxolslkuj4/getlink/tv360/url=https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8|user-agent="khanggtivi"
+#EXTINF:0 group-title="VTC",VTC2_123-241118-125.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.202/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC3 HD (50fps)_123-241118-117.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.251/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC4 HD (50fps)_123-241118-118.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.200/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC5 HD (50fps)_123-241118-119.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.199/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC6 HD (50fps)_123-241118-120.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.198/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTC",VTC7_123-241118-126.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.197/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTC",VTC7 HD - TodayTV_kkk.m3u?dl=0-231130-040.done
 https://dl.dropboxusercontent.com/s/9xoex0p2z8dd7yr/getlink/mytv/398/live/hd/vtc7/mytv.m3u8?id=vtc7-todaytv-hd|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTC",VTC8_123-241118-127.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.196/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTC",VTC9_vietngatv.m3u-231130-029.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTC",VTC9 HD (50fps)_123-241118-121.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.195/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTV",19/11-02:30 | Uruguay Primera Division : Progreso vs Fénix | VTV+ Uruguay_123-241118-028.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/391/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",SCTV10 — VTV Hyundai Homeshopping_vietngatv.m3u-231130-064.done
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV1 (50fps)_123-241118-105.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.249/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV1_bearlivetv-231124-001.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV1 HD — THVN_vietngatv.m3u-231130-001.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV2 (50fps)_123-241118-106.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.13/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV2_vietngatv.m3u-240426-002.done
 http://118.107.85.4:1935/live/smil:VTV2.smil/chunks.m3u8
+#EXTINF:0 group-title="VTV",VTV3 (50fps)_123-241118-107.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.247/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV3_bearlivetv-231124-003.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV3 HD — THVN_vietngatv.m3u-231130-003.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV4 (50fps)_123-241118-108.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.20/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV4_bearlivetv-231130-004.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV4 — THVN_vietngatv.m3u-231130-004.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV7 (50fps)_123-241118-111.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.96/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV7_bearlivetv-231130-007.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV7_vietngatv.m3u-240426-009.done
@@ -524,6 +730,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|referer=http://sctvon
 https://dl.dropboxusercontent.com/s/vw3l4uke0977if5/getlink/mytv/hd.m3u8?id=vtv7-hd|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV7 HD — THVN_vietngatv.m3u-231130-010.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV8 (50fps)_123-241118-112.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.166/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV8_bearlivetv-231130-008.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV8_vietngatv.m3u-240426-010.done
@@ -532,6 +740,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?|referer=http://sctvon
 https://dl.dropboxusercontent.com/s/8ov84efv8m5tpx6/getlink/mytv/380/hd.m3u8?id=vtv8-hd|user-agent="Khanggne"
 #EXTINF:0 group-title="VTV",VTV8 — THVN_vietngatv.m3u-231130-011.done
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV9 (50fps)_123-241118-113.done
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.128/test/123/playlist.mpegts
 #EXTINF:0 group-title="VTV",VTV9_bearlivetv-231130-009.done
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTV9_vietngatv.m3u-240426-011.done
@@ -590,305 +800,439 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http:
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="VTV",VTVCab9 HD_iptv-all.m3u-231130-066.done
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:0 group-title="VTV",VTV Cần Thơ_vietngatv.m3u-240426-008.done
-http://home1.tranducanh.com:4444/udp/225.1.4.6:30120
-#EXTINF:0 group-title="Foreign",02:00 19.11 | Premier League International Cup | Nottingham Forest U21 vs Jong Ajax (R)_123-241118-103.done
-http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fnottingham-forest-u21-vs-jong-ajax-r-luc-0200-ngay-19-11-2024/test/123/playlist.mpegts
-#EXTINF:0 group-title="Music",02:30 19.11 | Serie B Basket | New Basket Brindisi vs Assigeco Banca Popolare_123-241118-104.done
-http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fnew-basket-brindisi-vs-assigeco-banca-popolare-luc-0230-ngay-19-11-2024/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-22:00 | Polish league (w) : Kalisz vs Bielsko Biala | Sport Klub 1 Serbia_123-241118-001.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/101/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Ghana vs Niger | Sportdigital FUSSBALL DE_123-241118-005.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/571/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Libya vs Benin | beIN Sports MENA 3 HD_123-241118-003.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/93/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Libya vs Benin | Canal+ Sport 1 Afrique_123-241118-002.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/486/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Sudan vs Angola | beIN Sports MENA 2 HD_123-241118-007.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/92/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Sudan vs Angola | Sport TV1 Portugal_123-241118-006.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/49/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:00 | LIVE Billie Jean King Cup SF1 | Supersport Tennis_123-241118-004.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/423/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",18/11-23:30 | Orlen Liga Women : Mielec W vs Rzeszow W | Polsat Sport Poland_123-241118-008.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/47/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Magenta Sport 301_123-241118-010.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/1/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Sport1 DE_123-241118-009.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/641/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-00:00 | Frauen-Bundesliga : Köln vs Werder Bremen | Vodafone Sport_123-241118-011.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/260/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Comoros vs Madagascar | beIN Sports MENA 4 HD_123-241118-012.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/94/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Comoros vs Madagascar | Canal+ Sport 2 Afrique_123-241118-013.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/487/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN Sports 2 France_123-241118-026.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/117/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN SPORTS en Español_123-241118-021.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/372/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | beIN SPORTS USA_123-241118-020.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/425/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Morocco vs Lesotho | Sport TV4 Portugal_123-241118-027.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/289/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:00 | Cúp bóng đá Châu Phi ( Africa Cup ) Qualification : Tunisia vs Gambia | beIN Sports 3 France_123-241118-016.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/118/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | European Rally Championship Ekpompi Grand Prix 2024 | Cosmote Sport 5 HD_123-241118-015.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/626/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Arena Sport 4 Serbia_123-241118-019.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/581/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Cosmote Sport 7 Greece_123-241118-018.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/628/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:00 | Lega A : Cremona vs Olimpia Milano | Polsat Sport Premium 3 Poland_123-241118-017.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/14/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | RAI Sport 1 IT_123-241118-031.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/882/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | Sky Sport 251 IT_123-241118-032.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/3/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:30 | Italy - Serie C : Monopoli vs Audace Cerignola | Sky Sport Calcio IT_123-241118-030.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/870/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:30 | Orlen Liga Women : Opole W vs Mogilno W | Polsat Sport 2 Poland_123-241118-029.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/50/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",19/11-02:30 | Uruguay Primera Division : Progreso vs Fénix | VTV+ Uruguay_123-241118-028.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/391/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Bulgaria vs Belarus | Sky Sport 7 NZ_123-241118-068.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/594/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Bulgaria vs Belarus | SuperSport Laliga_123-241118-067.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/415/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | beIN Sports MENA 1 HD_123-241118-051.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/91/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | beIN Sports MENA English 1 HD_123-241118-050.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/61/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Diema Sport 2 Bulgaria_123-241118-055.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/466/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Digi Sport 1 Romania_123-241118-060.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/400/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Fox Sports 2 USA_123-241118-035.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/758/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | L'Equipe France_123-241118-054.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/645/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Nova Sports 2 Greece_123-241118-057.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/632/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Prima Sport 2 Romania_123-241118-059.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/584/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Sky Sport 3 NZ_123-241118-044.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/590/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Sport 2 Israel_123-241118-049.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/141/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | SporTV BR_123-241118-053.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/78/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | SuperSport Premier League_123-241118-052.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/414/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | V Sport Premium_123-241118-056.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/10/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Croatia vs Portugal | Ziggo Sport 3 NL_123-241118-046.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/11/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Kosovo vs Lithuania | Sky Sport 6 NZ_123-241118-071.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/593/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | beIN Sports MENA English 2 HD_123-241118-072.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/90/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Nova Sport Bulgaria_123-241118-074.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/468/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Sky Sport 5 NZ_123-241118-077.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/592/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | Sport TV6 Portugal_123-241118-076.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/291/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Luxembourg vs Northern Ireland | SuperSport Variety 2_123-241118-073.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/417/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Arena Sport 3 Premium Serbia_123-241118-040.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/139/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | beIN Sports MENA 6 HD_123-241118-037.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/96/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Fox Soccer Plus_123-241118-062.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/756/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Nova Sports Premier League Greece_123-241118-039.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/599/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Prima Sport 3 Romania_123-241118-041.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/585/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sky Sport 2 NZ_123-241118-043.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/589/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sport 1 Israel_123-241118-036.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/140/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | Sport TV3 Portugal_123-241118-042.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/454/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | SporTV2 BR_123-241118-033.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/79/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | SuperSport Variety 3_123-241118-038.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/418/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Poland vs Scotland | TVP Sport Poland_123-241118-047.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/128/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Romania vs Cyprus | Nova Sports 3 Greece_123-241118-048.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/633/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Arena Sport 1 Premium Serbia_123-241118-093.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/134/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | beIN Sports MENA 8 HD_123-241118-089.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/98/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Diema Sport Bulgaria_123-241118-084.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/465/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Digi Sport 4 Romania_123-241118-087.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/403/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Nova Sports 4 Greece_123-241118-085.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/634/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Polsat Sport Premium 1 Poland_123-241118-088.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/7/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Prima Sport 4 Romania_123-241118-086.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/586/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sky Sport Select NZ_123-241118-091.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/587/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sport 3 Israel_123-241118-066.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/142/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | Sport TV5 Portugal_123-241118-092.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/290/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | SuperSport PSL_123-241118-082.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/413/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Serbia vs Denmark | V Sport Football_123-241118-061.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/8/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Simulcast | Nova Sports Prime Greece_123-241118-078.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/638/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | beIN Sports MENA 5 HD_123-241118-095.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/95/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Diema Sport 3 Bulgaria_123-241118-098.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/467/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Digi Sport 3 Romania_123-241118-079.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/402/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Nova Sports 1 Greece_123-241118-090.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/631/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Polsat Sport 3 Poland_123-241118-064.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/129/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Prima Sport 1 Romania_123-241118-070.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/583/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sky Sport 1 NZ_123-241118-080.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/588/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sport 4 Israel_123-241118-094.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/143/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Sport TV2 Portugal_123-241118-065.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/74/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | SuperSport Football_123-241118-096.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/56/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | TV2 Sport X Denmark_123-241118-099.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/808/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-02:45 | UEFA Nations League : Spain vs Switzerland | Ziggo Sport 2 NL_123-241118-081.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/398/test/123/playlist.mpegts
-#EXTINF:0 group-title="Sport",19/11-05:15 | Argentina - Primera División : Defensa y Justicia vs Deportivo Riestra | TNT Sports Argentina_123-241118-102.done
-http://bentre5.hoangai.vn:8086/stream/sportngoaifree/388/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Animal Planet (50fps)_123-241118-149.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Animax (50fps)_123-241118-150.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Asian Food Network (50fps)_123-241118-151.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.198/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",BBC CbeeBies (50fps)_123-241118-152.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",BBC Earth (50fps)_123-241118-153.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.24/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",BBC Lifestyle (50fps)_123-241118-154.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.52/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",BBC News (50fps)_123-241118-155.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Da Vinci (50fps)_123-241118-156.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.197/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Discovery Asia (50fps)_123-241118-157.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",Discovery Channel (50fps)_123-241118-158.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238/test/123/playlist.mpegts
-#EXTINF:0 group-title="Music",Fashion TV (50fps)_123-241118-159.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.227/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",France 24 (English) (50fps)_123-241118-160.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",HBO (50fps)_123-241118-161.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",HBO (50fps)_123-241118-162.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.233/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV1_123-241118-140.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.180/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV2 Vie Channel (50fps)_123-241118-129.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.193/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV3_123-241118-141.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.178/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV7 HD (50fps)_123-241118-130.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.192/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV9 HD (50fps)_123-241118-131.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.190/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC+ (50fps)_123-241118-139.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.181/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Ca Nhạc (50fps)_123-241118-133.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.185/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Du Lịch và Cuộc Sống (50fps)_123-241118-134.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.166/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Gia Đình (50fps)_123-241118-135.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.170/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Phim (50fps)_123-241118-136.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.184/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Phụ Nữ (50fps)_123-241118-137.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.171/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTVC Thuần Việt (50fps)_123-241118-138.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.186/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV Keys_123-241118-142.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.177/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV Thể Thao (50fps)_123-241118-132.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.165/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",HTV Thể Thao_kkk.m3u?dl=0-241118-013.done
-https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
-#EXTINF:0 group-title="THVL",LA34 _ TH Long An_123-241118-148.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.162/test/123/playlist.mpegts
-#EXTINF:0 group-title="HTV",THTV HD _ TH Trà Vinh (50fps)_123-241118-147.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.172/test/123/playlist.mpegts
-#EXTINF:0 group-title="THVL",THVL1 HD _ TH Vĩnh Long (50fps)_123-241118-143.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.155/test/123/playlist.mpegts
-#EXTINF:0 group-title="THVL",THVL2 HD _ TH Vĩnh Long (50fps)_123-241118-144.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.154/test/123/playlist.mpegts
-#EXTINF:0 group-title="THVL",THVL3 HD _ TH Vĩnh Long (50fps)_123-241118-145.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.235/test/123/playlist.mpegts
-#EXTINF:0 group-title="THVL",THVL4 HD _ TH Vĩnh Long (50fps)_123-241118-146.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.25/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",TV5 Monde Asie (50fps)_123-241118-163.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.200/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC10 HD (50fps)_123-241118-122.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.194/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC11_123-241118-128.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.193/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC14 HD (50fps)_123-241118-123.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.88/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC16 HD (50fps)_123-241118-124.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.190/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC1 HD (50fps)_123-241118-116.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.254/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC2_123-241118-125.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.202/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC3 HD (50fps)_123-241118-117.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.251/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC4 HD (50fps)_123-241118-118.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.200/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC5 HD (50fps)_123-241118-119.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.199/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC6 HD (50fps)_123-241118-120.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.198/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC7_123-241118-126.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.197/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC8_123-241118-127.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.196/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTC",VTC9 HD (50fps)_123-241118-121.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.195/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV1 (50fps)_123-241118-105.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.249/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV2 (50fps)_123-241118-106.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.13/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV3 (50fps)_123-241118-107.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.247/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV4 (50fps)_123-241118-108.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.20/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",VTV5 (50fps)_123-241118-109.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.131/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nam Bộ (50fps)_123-241118-114.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.236/test/123/playlist.mpegts
-#EXTINF:0 group-title="Foreign",VTV5 Tây Nguyên (50fps)_123-241118-115.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.108/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV7 (50fps)_123-241118-111.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.96/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV8 (50fps)_123-241118-112.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.166/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTV9 (50fps)_123-241118-113.done
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.128/test/123/playlist.mpegts
-#EXTINF:0 group-title="VTV",VTVcab 19 - Vie Dramas_kkk.m3u?dl=0-241118-029.done
-https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 #EXTINF:0 group-title="VTV",VTV Cần Thơ (50fps)_123-241118-110.done
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.245/test/123/playlist.mpegts
+#EXTINF:0 group-title="VTV",VTV Cần Thơ_vietngatv.m3u-240426-008.done
+http://home1.tranducanh.com:4444/udp/225.1.4.6:30120
+#EXTINF:0 group-title="Foreign",🔴 05:30 22.11 | National Collegiate Athletic Association | Texas State-San Marcos vs Bradley_123-241121-087.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Ftexas-state-san-marcos-vs-bradley-luc-0530-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",🔴 07:00 22.11 | National Collegiate Athletic Association | Kent State vs Niagara_123-241121-088.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fkent-state-vs-niagara-luc-0700-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",🔴 07:00 22.11 | National Collegiate Athletic Association | North Florida vs Edward Waters_123-241121-089.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fnorth-florida-vs-edward-waters-luc-0700-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",🔴 07:30 22.11 | National Collegiate Athletic Association | Central Arkansas vs Southeast Missouri State_123-241121-090.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fcentral-arkansas-vs-southeast-missouri-state-luc-0730-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",🔴 07:30 22.11 | National Collegiate Athletic Association | University of Nevada vs Vanderbilt_123-241121-091.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Funiversity-of-nevada-vs-vanderbilt-luc-0730-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",08:00 22.11 | National Collegiate Athletic Association | Texas A&M-Corpus Christi vs Tennessee-Martin_123-241121-092.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Ftexas-am-corpus-christi-vs-tennessee-martin-luc-0800-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",08:00 22.11 | National Collegiate Athletic Association | Valparaiso vs Lindenwood_123-241121-093.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fvalparaiso-vs-lindenwood-luc-0800-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",08:30 22.11 | National Collegiate Athletic Association | Michigan vs Tarleton State University_123-241121-094.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fmichigan-vs-tarleton-state-university-luc-0830-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",09:30 22.11 | National Collegiate Athletic Association | Tennessee vs Virginia_123-241121-096.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Ftennessee-vs-virginia-luc-0930-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",09:30 22.11 | National Collegiate Athletic Association | Washington State vs Eastern Washington_123-241121-095.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fwashington-state-vs-eastern-washington-luc-0930-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",10:00 22.11 | National Collegiate Athletic Association | Oregon State vs Oregon_123-241121-098.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Foregon-state-vs-oregon-luc-1000-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",10:00 22.11 | National Collegiate Athletic Association | San Francisco vs Memphis_123-241121-099.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fsan-francisco-vs-memphis-luc-1000-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",10:00 22.11 | National Collegiate Athletic Association | UC Berkeley vs Air Force_123-241121-097.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Fuc-berkeley-vs-air-force-luc-1000-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",10:30 22.11 | India Mumbai Super Division | Tarun Sporting vs Bombay Ymca_123-241121-100.done
+http://bentre5.hoangai.vn:8086/stream/xoilacz/%2Ftruc-tiep%2Ftarun-sporting-vs-bombay-ymca-luc-1030-ngay-22-11-2024/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-05:15 | Argentina - Primera División : Independiente vs Gimnasia La Plata | ESPN Premium Argentina_123-241121-001.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/387/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-06:30 | Colombia - Primera A : Once Caldas vs Deportes Tolima | Win Sports+ Colombia_123-241121-002.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/392/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-08:00 | Women's College Volleyball : Creighton vs. DePaul | Marquee Sports Network_123-241121-003.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/770/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-09:00 | Fútbol Mexicano Femenino Primera División : Tigres UANL vs Monterrey | Fox Deportes_123-241121-004.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/643/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-13:30 | Giải vô địch bóng đá Úc : Perth Glory vs Western United | TNT Sports 2 UK_123-241121-006.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/32/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-13:30 | Vô địch Quốc gia Nữ Úc : Adelaide United vs Wellington Phoenix | Sky Sport 4 NZ_123-241121-005.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/591/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-18:00 | Giải Cỏ: VĐQG Campuchia | Life FC vs National Police Commissary | BLV_123-241121-102.done
+http://bentre5.hoangai.vn:8086/stream/caheo/y7lrlrrbhi/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-18:00 | VĐQG Campuchia | Life FC vs National Police Commissary_123-241121-101.done
+http://bentre5.hoangai.vn:8086/stream/cakhia/y7lrlrrbhi/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-18:30 | UEFA Nation League Draw | Nova Sports Start Greece_123-241121-009.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/637/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-19:00 | Bosnia and Herzegovina - Premijer Liga : Igman Konjic vs Željezničar | Arena Sport 2 Serbia_123-241121-010.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/430/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-19:30 | Croatia 2. HNL : NK Sesvete vs. NK Dugopolje | Max Sport 1 Croatia HD_123-241121-011.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/779/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-20:00 | Qatar - Qatar Stars League : Al Khor vs Al Sadd | beIN Sports HD Qatar_123-241121-012.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/578/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-21:55 | Portugal - Campeonato Nacional Feminino : Sporting vs Vilaverdense | Canal 11 Portugal_123-241121-013.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/540/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-22:00 | Egypt - Premier League : Pharco vs ENPPI | ON Time Sports Egypt_123-241121-016.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/5/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-22:00 | Egypt - Premier League : Pyramids FC vs National Bank of Egypt | ON Time Sports Egypt_123-241121-015.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/2/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",22/11-22:00 | Giải Cỏ: Ngoại hạng Ai Cập | Pyramids FC vs National Bank Egypt SC | BLV_123-241121-103.done
+http://bentre5.hoangai.vn:8086/stream/caheo/vmwcf26ple/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-22:00 | Turkiye VVSL Lig Women : Besiktas Istanbul vs. Eczacibasi Istanbul | Arena Sport 2 Croatia_123-241121-014.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/433/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-23:00 | Russia - Premier League : Rubin Kazan' vs Akron | Arena Sport 1 Croatia_123-241121-017.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/432/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",22/11-23:30 | Slovenian 1st league : Bravo vs Radomlje | Sport Klub 4 Serbia_123-241121-018.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/104/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:00 | Giải Cỏ: VĐQG Morocco | FAR Rabat vs UTS Union Touarga Sport Rabat | BLV_123-241121-104.done
+http://bentre5.hoangai.vn:8086/stream/caheo/nwrkpnxgc5/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:00 | Poland - Ekstraklasa : Zagłębie Lubin vs Motor Lublin | Arena Sport 3 Serbia_123-241121-019.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/431/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:00 | Poland - Ekstraklasa : Zagłębie Lubin vs Motor Lublin | Canal+ Sport 3 Poland_123-241121-026.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/259/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:00 | Poland - Ekstraklasa : Zagłębie Lubin vs Motor Lublin | Canal+ Sport 5 Poland_123-241121-021.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/75/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-00:00 | Saudi Arabia - Pro League : Al Nassr vs Al Quadisiya | Canal+ Foot France_123-241121-022.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/463/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Germany - Bundesliga 2 : Paderborn vs Nürnberg | Digi Sport 2 Romania_123-241121-029.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/401/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Germany - Bundesliga 2 : Paderborn vs Nürnberg | Eleven Sports 1 Portugal_123-241121-030.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/455/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Germany - Bundesliga 2 : Preußen Münster vs Köln | Sky Sport Bundesliga 2_123-241121-031.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/9/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Germany - Bundesliga 2 : Simulcast | Sky Sport Bundesliga 1_123-241121-028.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/558/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Germany - Frauen DFB Pokal : Union Berlin vs Eintracht Frankfurt | Sky Sport Mix DE_123-241121-032.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/557/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-00:30 | Greece - Super League : Kallithea vs Panserraikos | Cosmote Sport 1 HD Greece_123-241121-027.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/622/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-01:00 | Denmark - Super Liga : Nordsjælland vs AGF | TV3 Sport Denmark_123-241121-040.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/809/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | 5 Gold Israel_123-241121-035.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/148/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | Arena 2 Premium Serbia_123-241121-036.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/135/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | Canal+ Sport 3 Afrique_123-241121-033.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/488/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | DAZN1 France_123-241121-042.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/55/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | DAZN2 DE_123-241121-039.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/427/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-01:00 | France - Ligue 1 : Monaco vs Brest | Eleven Sports 1 Poland_123-241121-038.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/71/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-01:00 | Germany - 3. Liga : Viktoria Köln vs Energie Cottbus | Magenta Sport 301_123-241121-034.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/4/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Caen vs Rodez | beIN Sports MAX 7 France_123-241121-046.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/497/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Clermont vs Metz | beIN Sports MAX 4 France_123-241121-048.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/494/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Guingamp vs Amiens SC | beIN Sports MAX 6 France_123-241121-049.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/496/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Martigues vs Laval | beIN Sports MAX 9 France_123-241121-044.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/499/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Pau vs Red Star | beIN Sports MAX 8 France_123-241121-050.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/498/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Simulcast | beIN Sports 1 France_123-241121-047.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/116/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:00 | France - Ligue 2 : Troyes vs Grenoble Foot 38 | beIN Sports MAX 5 France_123-241121-045.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/495/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:00 | Netherlands - Eerste Divisie : Helmond Sport vs Eindhoven | ESPN 2 NL_123-241121-043.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/386/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-02:30 | Bundesliga : Bayern München vs Augsburg | beIN Sports MAX 10 France_123-241121-061.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/500/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Bundesliga : Bayern München vs Augsburg | Sky Sport Mix UK_123-241121-064.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/449/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Bundesliga : Bayern München vs Augsburg | Viasat Sport Premium_123-241121-063.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/12/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Italy - Serie C : Clodiense vs Vicenza | Sky Sport 251 Italia_123-241121-054.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/29/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Italy - Serie C : Perugia vs Arezzo | Sky Sport 252 Italia_123-241121-053.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/68/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Italy - Serie C : Rimini vs Vis Pesaro | Sky Sport 253 Italia_123-241121-052.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/69/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Italy - Serie C : Triestina vs Renate | Sky Sport 254 Italia_123-241121-055.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/28/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Poland - Ekstraklasa : Jagiellonia Białystok vs Śląsk Wrocław | Arena Sport 4 Croatia_123-241121-062.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/580/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Poland - Ekstraklasa : Jagiellonia Białystok vs Śląsk Wrocław | Canal+ Sport Poland_123-241121-058.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/48/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:30 | Spain - Segunda Division : Racing Ferrol vs Levante | Canal+ Sport 5 Afrique_123-241121-056.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/490/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-02:45 | Giải hạng 4 Anh : Cheltenham Town vs Tranmere Rovers | Sky Sports+_123-241121-066.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/156/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | Arena Sport 1 Serbia_123-241121-068.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/429/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | Arena Sport 3 Croatia_123-241121-069.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/434/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | CBS Sports Golazo USA_123-241121-077.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/910/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | Cosmote Sport 3 HD Greece_123-241121-070.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/624/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | Sky Sports Football UK_123-241121-067.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/35/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | England - Championship : Plymouth Argyle vs Watford | Sky Sports Main Event UK_123-241121-076.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/38/test/123/playlist.mpegts
+#EXTINF:0 group-title="Foreign",23/11-03:00 | France - Ligue 1 : PSG vs Toulouse | 5 Sport Israel_123-241121-080.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/144/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | Spain - La Liga : Getafe vs Real Valladolid | Eleven Sports 2 Poland_123-241121-073.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/72/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | Spain - La Liga : Getafe vs Real Valladolid | MAX Sport 4 Bulgaria_123-241121-074.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/475/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | Spain - La Liga : Getafe vs Real Valladolid | Viaplay Sports 1 UK_123-241121-072.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/451/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:00 | Women's College Volleyball : NEC Tournament: LIU vs Chicago State | SportsNet Pittsburgh_123-241121-082.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/922/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:45 | Giải Cỏ: Cúp Bồ Đào Nha | Sporting CP vs Amarante | BLV_123-241121-105.done
+http://bentre5.hoangai.vn:8086/stream/caheo/9ajh8xq1ah/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:45 | Portugal - Taça de Portugal : Sporting CP vs Amarante | RTP 1 Portugal_123-241121-085.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/719/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-03:45 | Portugal - Taça de Portugal : Sporting CP vs Amarante | Sport Klub 3 Serbia_123-241121-084.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/103/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",23/11-05:00 | Brasileirão Série B : Coritiba vs Botafogo-SP | SporTV3 BR_123-241121-086.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/80/test/123/playlist.mpegts
+#EXTINF:0 group-title="Music",9 WFTV (Geo)_xumo.m3u-241121-030.done
+https://dbrb49pjoymg4.cloudfront.net/10001/9995107/hls/playlist.m3u8?ads.xumo_channelId=9995107
+#EXTINF:0 group-title="Foreign",Animal Planet🐘 FHD_khichtivi.ref-241121-158.done
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/animalplanet.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",Animal Planet HD_khichtivi.ref-241121-159.done
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",animax HD 🇻🇳_khichtivi.ref-241121-144.done
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",Anime TV🇵🇷_khichtivi-241121-148.done
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1807204345.m3u8
+#EXTINF:0 group-title="Foreign",BBC Antiques Roadshow UK alt_xumo.m3u-241121-025.done
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991783/hls/playlist.m3u8?ads.xumo_channelId=99991783
+#EXTINF:0 group-title="Foreign",BBC Earth_khichtivi.ref-241121-152.done
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8|user-agent=KhichTivi
+#EXTINF:0 group-title="Foreign",BBC Earth HD_khichtivi.ref-241121-156.done
+https://content-ause1-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8|user-agent=khichTivi
+#EXTINF:0 group-title="Foreign",BBC News_cvtv.xyz-241121-025.done
+http://p1.cvtv.xyz:81/bbcn?token=live
+#EXTINF:0 group-title="Foreign",BBC News_xumo.m3u-241121-002.done
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:0 group-title="Sport",Bein Sports Xtra (Geo)_xumo.m3u-241121-008.done
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#EXTINF:0 group-title="Foreign",Boomerang HD ASIA🇱🇷_khichtivi-241121-149.done
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="HTV",Box Hits👌khíchTV_khichtivi-241121-123.done
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=239
+#EXTINF:0 group-title="HTV",Box Movie HD👌khíchTV_khichtivi.ref-241121-120.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=159|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="THVL",Cải Lương Việt Nam_khichtivi-241121-169.done
+https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:0 group-title="Sport",Canal+ Sport_cvtv.xyz-241121-016.done
+http://p1.cvtv.xyz/cp1?token=live
+#EXTINF:0 group-title="Foreign",CCTV5+ FHD_khichtivi-241121-166.done
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+#EXTINF:0 group-title="Foreign",CCTV5 FHD_khichtivi.ref-241121-165.done
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Foreign",Celestia HBO ACTION 🇬🇧_khichtivi-241121-139.done
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&checkedby:iptvcat.com
+#EXTINF:0 group-title="Foreign",CinemaWorld (HD🇻🇳_khichtivi.ref-241121-118.done
+http://37.27.111.214:8080/live/30/hls.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",CinemaWorld (HD 🇱🇷_khichtivi.ref-241121-132.done
+https://familyhls.avatv.live/hls/stream.m3u8|user-agent=KhichTivi
+#EXTINF:0 group-title="Foreign",CINEMAX 🇨🇳_khichtivi-241121-131.done
+http://211.72.65.236:8559/.m3u8
+#EXTINF:0 group-title="Foreign",Cinemax khích Tivi Online🇻🇳_khichtivi.ref-241121-117.done
+http://202.150.172.3:5000/udp/239.1.2.247:9372|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",CN HD ASIA_khichtivi-241121-146.done
+https://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:0 group-title="Foreign",disneyxd HD ASIA_khichtivi-241121-147.done
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:0 group-title="Sport",Eleven Sports 1_cvtv.xyz-241121-022.done
+http://p1.cvtv.xyz/E1?token=live
+#EXTINF:0 group-title="Sport",Eleven Sports 2_cvtv.xyz-241121-023.done
+http://p1.cvtv.xyz/E2?token=live
+#EXTINF:0 group-title="Foreign",FOX_cvtv.xyz-241121-024.done
+http://p1.cvtv.xyz/fox?token=live
+#EXTINF:0 group-title="Foreign",FOX HD_khichtivi.ref-241121-141.done
+https://stream01.vnet.am/Fox/mono.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",France 24 English (1080p)_index.m3u.ref-241121-001.done
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8|referer=https://fnx.org/
+#EXTINF:0 group-title="Foreign",France 24 English_cvtv.xyz-241121-026.done
+http://p1.cvtv.xyz:81/f24?token=live
+#EXTINF:0 group-title="Foreign",France 24 French (1080p)_index.m3u-241121-002.done
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:0 group-title="HTV",Happykids HD 👌khíchTV_khichtivi-241121-125.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=212
+#EXTINF:0 group-title="Foreign",HBO2_khichtivi-241121-137.done
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0 group-title="Foreign",HBO3_khichtivi-241121-138.done
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0 group-title="Foreign",HBO_khichtivi-241121-136.done
+https://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0 group-title="Foreign",HBO🇻🇳_khichtivi.ref-241121-113.done
+http://125hvt.ddns.net:21585/hbo/index.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Foreign",HBO ASIA🇺🇸_khichtivi.ref-241121-126.done
+http://41.205.93.154/HBO/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Foreign",HBO FAMILY HD🇨🇳_khichtivi-241121-129.done
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:0 group-title="Foreign",HBO HD🇨🇳_khichtivi-241121-127.done
+http://211.72.65.236:8580/.m3u8
+#EXTINF:0 group-title="Foreign",HBO HITS HD🇨🇳_khichtivi-241121-128.done
+http://202.150.172.3:5000/udp/239.1.1.215:9264
+#EXTINF:0 group-title="Foreign",HBO HITS khich TV Online🇻🇳_khichtivi.ref-241121-115.done
+http://202.150.172.3:5000/udp/239.1.1.215:9264|user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",HBO khich TV Online🇻🇳_khichtivi.ref-241121-114.done
+http://202.150.172.3:5000/udp/239.1.1.95:8544|user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="Foreign",HBO SINATUE HD🇨🇳_khichtivi-241121-130.done
+https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv
+#EXTINF:0 group-title="HTV",Hollywood Classics👌khíchTV_khichtivi-241121-122.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=160
+#EXTINF:0 group-title="HTV",HTV1 HD_khichtivi-241121-045.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=190
+#EXTINF:0 group-title="HTV",HTV3 HD_khichtivi.ref-241121-047.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV7_cvtv.xyz.ref-241121-005.done
+http://p1.cvtv.xyz/htv7?token=live|user-agent=cvmedia/1.1.0
+#EXTINF:0 group-title="HTV",HTV7_khichtivi.ref-241121-048.done
+https://stream1.freetv.fun/74ebca1cd0de4d4caf43a8ac7d0200ecf5af26a63775d90e78d83041de45094a.ctv|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV7 HD_khichtivi-241121-069.done
+https://live.relentlessinnovations.net:1936/sbtntv/sbtntv/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTVC+ HD_khichtivi.ref-241121-062.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=132|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="HTV",HTVC IBC TV HD_khichtivi.ref-241121-067.done
+https://live.relentlessinnovations.net:1936/ibc/ibc/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+#EXTINF:0 group-title="HTV",HTVC PHIM HD_khichtivi.ref-241121-060.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=15|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="HTV",HTVC Sài Gòn TV MADIA_khichtivi-241121-064.done
+https://live.relentlessinnovations.net:1936/saigontv/saigontv/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTVC VBSTV HD_khichtivi-241121-066.done
+https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTVC Việt  MTV HD_khichtivi.ref-241121-068.done
+https://live.relentlessinnovations.net:1936/vietmtv/vietmtv/laylist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="HTV",HTVC VSTV HD_khichtivi.ref-241121-065.done
+https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="HTV",HTV Thể Thao_kkk.m3u?dl=0-241121-013.done
+https://code.vthanhtivi.pw/getlink/htv/4009/playlist.m3u8
+#EXTINF:0 group-title="HTV",HTV THỂ THAO HD_khichtivi.ref-241121-050.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=195|user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/
+#EXTINF:0 group-title="SCTV",KhichTiVi|SCTV Phim Tổng Hợp_khichtivi.ref-241121-016.done
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",khích📺 VTV2 HD online_khichtivi.ref-241121-101.done
+https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtv2hd/KenhTruyenHinhCoBan|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",khích📺 VTV3 HD online_khichtivi-241121-102.done
+http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
+#EXTINF:0 group-title="Foreign",Maverick Black Cinema_xumo.m3u-241121-005.done
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991336
+#EXTINF:0 group-title="Music",like Gecko) Mobile/15E148",Mezzo (480p) [Not 24/7]_index.m3u.ref-241121-003.done
+http://ott-cdn.ucom.am/s35/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+#EXTINF:0 group-title="HTV",movie|fone|mihtv_khichtivi-241121-151.done
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="HTV",Music Box HD 👌khíchTV_khichtivi.ref-241121-124.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=289|user-agent=KhichTivi
+#EXTINF:0 group-title="Foreign",My Cinema Asia (1080p) [MFC ]_khichtivi-241121-133.done
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb6da41afad500077e9178/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7786-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26fc9e3f-7675-48b8-bf64-46d20af3ec80&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 group-title="Foreign",My Cinema fc Asia (1080p) [MCA ]_khichtivi-241121-134.done
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:0 group-title="Foreign",Neighborhood TV Atlanta_xumo.m3u-241121-031.done
+https://dbrb49pjoymg4.cloudfront.net/10001/99951292/hls/playlist.m3u8?ads.xumo_channelId=99951292
+#EXTINF:0 group-title="SCTV",SCTV15 FHD_khichtivi-241121-093.done
+https://cloud.sgchill.x10.bz/manifest/livetv/tvonline/v2/premium/userid:vmttv/sctv/sctv15/index.m3u8
+#EXTINF:0 group-title="SCTV",SCTV17 HD Vip_khichtivi.ref-241121-094.done
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTINF:0 group-title="SCTV",SCTV9 HD_khichtivi-241121-090.done
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:0 group-title="SCTV",SCTV TVB_khichtivi.ref-241121-097.done
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8|user-agent=khichTivi
+#EXTINF:0 group-title="Sport",Sky Sport Bundesliga_cvtv.xyz-241121-009.done
+http://p1.cvtv.xyz/bun?token=live
+#EXTINF:0 group-title="Sport",Sky Sport F1_cvtv.xyz-241121-006.done
+http://p1.cvtv.xyz/f1?token=live
+#EXTINF:0 group-title="Sport",Sky Sport Mix_cvtv.xyz-241121-008.done
+http://p1.cvtv.xyz/mix?token=live
+#EXTINF:0 group-title="Sport",Sky Sport Premier League_cvtv.xyz-241121-007.done
+http://p1.cvtv.xyz/pl?token=live
+#EXTINF:0 group-title="Sport",Sky Sport Tennis_cvtv.xyz-241121-010.done
+http://p1.cvtv.xyz/tennis?token=live
+#EXTINF:0 group-title="Sport",Sportdigital_cvtv.xyz-241121-015.done
+http://p1.cvtv.xyz/spd?token=live
+#EXTINF:0 group-title="HTV",THTV | Truyền Hình Trà Vinh_khichtivi.ref-241121-107.done
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
+#EXTINF:0 group-title="THVL",THVL1 HD _ TH Vĩnh Long_khichtivi.ref-241121-108.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=25|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="THVL",THVL2 HD _ TH Vĩnh Long_khichtivi.ref-241121-109.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=26|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="THVL",THVL3 HD _ TH Vĩnh Long_khichtivi.ref-241121-110.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=219|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="THVL",THVL4 HD _ TH Vĩnh Long_khichtivi.ref-241121-111.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=220|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Sport",TNT Sports 1 4Mbps for 4G_cvtv.xyz-241121-017.done
+http://p1.cvtv.xyz/tnt1?token=live
+#EXTINF:0 group-title="Sport",TNT Sports 2 4Mbps for 4G_cvtv.xyz-241121-018.done
+http://p1.cvtv.xyz/tnt2?token=live
+#EXTINF:0 group-title="Sport",TNT Sports 3 4Mbps for 4G_cvtv.xyz-241121-019.done
+http://p1.cvtv.xyz/tnt3?token=live
+#EXTINF:0 group-title="Sport",TNT Sports 4 4Mbps for 4G_cvtv.xyz-241121-020.done
+http://p1.cvtv.xyz/tnt4?token=live
+#EXTINF:0 group-title="Sport",TNT Sports 5 4Mbps for 4G_cvtv.xyz-241121-021.done
+http://p1.cvtv.xyz/tnt5?token=live
+#EXTINF:0 group-title="Foreign",TV5 HD_khichtivi.ref-241121-163.done
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8|user-agent=vkhichTivi
+#EXTINF:0 group-title="Foreign",TV5 HD_khichtivi.ref-241121-164.done
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Music",Vevo Pop_xumo.m3u-241121-029.done
+https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391
+#EXTINF:0 group-title="HTV",Vie Channel HTV2 HD_khichtivi.ref-241121-046.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="THVL",Vĩnh Long 1 FHD_khichtivi.ref-241121-017.done
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTINF:0 group-title="THVL",Vĩnh Long 2 FHD_khichtivi.ref-241121-018.done
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTINF:0 group-title="THVL",Vĩnh Long_khichtivi.ref-241121-168.done
+https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8|user-agent=VThanhTivi
+#EXTINF:0 group-title="VTV",VOVTV FHD-25_khichtivi.ref-241121-105.done
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8|user-agent=KhichTivi
+#EXTINF:0 group-title="VTC",VTC12 FHD_khichtivi.ref-241121-039.done
+https://bom.so/khichtv-vtc12-m3u8|user-agent="KhichTV"
+#EXTINF:0 group-title="VTC",VTC13 FHD_khichtivi.ref-241121-040.done
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8|user-agent="KhichTV"
+#EXTINF:0 group-title="VTC",VTC18HD Bóng Đã Hàng Anh_khichtivi-241121-043.done
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:0 group-title="VTC",VTC1_cvtv.xyz.ref-241121-004.done
+http://p1.cvtv.xyz/vtc1?token=live|user-agent=cvmedia/1.1.0
+#EXTINF:0 group-title="VTC",VTC1 FHD_khichtivi.ref-241121-025.done
+https://stream1.freetv.fun/vtc1-2.m3u8|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTC",VTC9 HD_khichtivi.ref-241121-036.done
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTC VTV1 HD online_khichtivi.ref-241121-100.done
+https://ott1.nethubtv.vn/live/vtv1/chunklist_1.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV",❤VTV12|TRT_khichtivi.ref-241121-012.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=63|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="VTV",❤VTV14 EC_khichtivi.ref-241121-014.done
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=182|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="VTV",VTV1_cvtv.xyz.ref-241121-001.done
+http://p1.cvtv.xyz/vtv1?token=live|user-agent=cvmedia/1.1.0
+#EXTINF:0 group-title="VTV",VTV3_cvtv.xyz.ref-241121-002.done
+http://p1.cvtv.xyz/vtv3?token=live|user-agent=cvmedia/1.1.0
+#EXTINF:0 group-title="VTV",❤️VTV3 HD_khichtivi.ref-241121-003.done
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="Foreign",VTV5_cvtv.xyz.ref-241121-003.done
+http://p1.cvtv.xyz/vtv5?token=live|user-agent=cvmedia/1.1.0
+#EXTINF:0 group-title="Foreign",❤️VTV5 HD_khichtivi.ref-241121-005.done
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",❤️VTV7 HD_khichtivi.ref-241121-007.done
+https://bom.so/khichtivi-live-VTV7_index-m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",❤️VTV8 HD_khichtivi.ref-241121-008.done
+https://bom.so/khichtv-vtv8-hd?/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib
+#EXTINF:0 group-title="VTV",❤️VTV9 HD_khichtivi.ref-241121-009.done
+https://bom.so/khichtv-live-vtv9-hd?/index.m3u8?|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV-Cab",VTVCab12 - STYLE TV_khichtivi.ref-241121-078.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV-Cab",VTVCab12 - STYLE TV FHD_khichtivi.ref-241121-079.done
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=184|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV-Cab",VTVCab17_khichtivi.ref-241121-080.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV-Cab",VTVcab 19 - Vie Dramas_kkk.m3u?dl=0-241121-030.done
+https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
+#EXTINF:0 group-title="VTV-Cab",VTVCab19 FHD_khichtivi.ref-241121-083.done
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=177|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="VTV-Cab",VTVCab1 FHD_khichtivi.ref-241121-070.done
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=180|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="VTV-Cab",VTVCab1 SCTV online FHD_khichtivi.ref-241121-071.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV-Cab",VTVCab20 - V Family_khichtivi.ref-241121-087.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=Dalvik/2.1.0
+#EXTINF:0 group-title="VTV-Cab",VTVCab5 - E Channel_khichtivi.ref-241121-074.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?khichtv|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV-Cab",VTVCab9_khichtivi.ref-241121-077.done
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",❤️VTV Cần Thơ HD_khichtivi.ref-241121-006.done
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/|user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:0 group-title="VTV",VTV HUẾ HD_khichtivi.ref-241121-112.done
+https://live.trt.com.vn/TRT-Online/playlist.m3u8|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:0 group-title="Sport", 23/11-02:30 | Italy, Serie A1,Women : Volley Monza vs. Volley Conegliano | Sport Klub 8 Serbia_123-241121-051.done
+http://bentre5.hoangai.vn:8086/stream/sportngoaifree/154/test/123/playlist.mpegts
+#EXTINF:0 group-title="Sport",Womens Sports Network (Geo) (unlisted)_xumo.m3u-241121-016.done
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951142/hls/playlist.m3u8?ads.xumo_channelId=99951142
+#EXTINF:0 group-title="Foreign",wowow cinema_khichtivi.ref-241121-150.done
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&checkedby:iptvcat.com|user-agent=VkhichTivi
+#EXTINF:0 group-title="Foreign",Xumo Free Indian and Bollywood Cinema_xumo.m3u-241121-028.done
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
