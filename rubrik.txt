@@ -1,0 +1,21 @@
+a gauche: 	Ur Lu Ul Ld Ul Fr Ur Fl
+a droite:	Ul Ru Ur Rd Ur Fl Ul Fr
+ 
+Yellow Cross:			Fr Ru Ul Rd Ur Fl
+Yellow edges switch:	Ru Ul Rd Ul Ru Ul Ul Rd Ul
+Yellow Corner:			Ul Ru Ur Lu Ul Rd Ur Ld
+
+Croix Jaune:
+ligne centre: 	Fr Ru Ul Rd Ur Fl
+un L face sup:	Fr Ul Ru Ur Rd Fl
+Jaune centre:	1 + 2
+
+Face Jaune:
+				Lu Ur Ld Ur Lu Ul Ul Ld
+				Ru Ul Rd Ul Ru Ur Ur rd
+				
+Coins Jaune - Face 2 coins Mal Position 
+				Rd Fr Rd Br Br Ru Fl Rd Br Br Ru Ru
+				
+Switch right - Arriere bon
+				Ru Ur Ru Ul Ru Ul Ru Ur Rd Ur Rd Rd
