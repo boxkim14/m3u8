@@ -1,1 +1,1 @@
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDI1IDExOjAzOjI0IFBNJmhhc2hfdmFsdWU9ZU9MK1U2eWlyVEdQZ21xL0pSVXFKUT09JnZhbGlkbWludXRlcz0xNDQw
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDI1IDE6NDE6NDkgQU0maGFzaF92YWx1ZT15Tzc0MjlMa3ZSSUcwY2Yvd0VjRkdBPT0mdmFsaWRtaW51dGVzPTE0NDA=
