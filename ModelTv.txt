@@ -1,1 +1,1 @@
-https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=948320871&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDE6MTA6NTcgUE0maGFzaF92YWx1ZT1hOHY1dlRxaVZWaGgwaGZ0NUE1RUx3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=948344237&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDI1IDE6Mjg6MDYgUE0maGFzaF92YWx1ZT1yV3pvUS9SaUJyeks1U0gzMUtFdUV3PT0mdmFsaWRtaW51dGVzPTE0NDA=
