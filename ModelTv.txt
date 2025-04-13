@@ -1,1 +1,5 @@
-https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=950725361&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDg6MTA6NDIgUE0maGFzaF92YWx1ZT1nZGhPN2pDZTNJQndVZnVRNksyZG53PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3107717,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
+https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=950831481&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDk6MzY6MzIgUE0maGFzaF92YWx1ZT03VDIwN1ozMXpuaFRDZURCNVhtbFF3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://rpn1.bozztv.com/inim03/live1/modelinc/
