@@ -1,1 +1,4 @@
-https://rr1---sn-cxaaj5o5q5-t0ar.googlevideo.com/videoplayback?expire=1745377489&ei=UegHaMSNMZrK2LYP-Ir2mA8&ip=174.89.236.75&id=ca4430969c4b96b3&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1745348689,&mh=qs&mm=31&mn=sn-cxaaj5o5q5-t0ar&ms=au&mv=m&mvi=1&pl=24&rms=au,au&susc=bl&eaua=ST__kqv-350&mime=video/mp4&vprv=1&rqh=1&dur=195.094&lmt=1738553589426174&mt=1745348234&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgf5g0jICM3rrN9bX-HI9r4QNUmAbDz-r4B7Grak2d9hMCIBuIu9s9KYOQf5fijuofTQ1bY7XtuFkVik4Gecuc6wAZ&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACuhMU0wRgIhAM1HTDNNp2xTpxTUbqbC2om7pNSq9ZDsMZSOhS-Kmo5iAiEAolt1dNyDQSEiZ6cWt2ZFUb9zAWGFndNvf90q2aOfS7o=
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2365779,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
+https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=967669988&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDI1IDg6MDc6NDUgUE0maGFzaF92YWx1ZT1HeERhRWRTYmErT3RsTFZ0NU4wcWp3PT0mdmFsaWRtaW51dGVzPTE0NDA=
