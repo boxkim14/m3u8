@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2408768,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
-https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=970801156&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjMxOjQ3IEFNJmhhc2hfdmFsdWU9RFAwa2x2SkcySWpzbGhWZUE0dlkzZz09JnZhbGlkbWludXRlcz0xNDQw
+#EXT-X-STREAM-INF:BANDWIDTH=4246867,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
+https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=971464047&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDc6NDI6NTYgUE0maGFzaF92YWx1ZT0vbzFTd052REdEd1pXT1lBNEhRdzlnPT0mdmFsaWRtaW51dGVzPTE0NDA=
