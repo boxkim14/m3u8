@@ -1,4 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2386811,RESOLUTION=1280x720,CODECS="avc1.64081f,mp4a.40.2"
-https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8?nimblesessionid=973459708&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6MjY6MTQgUE0maGFzaF92YWx1ZT1UVlB2cThoQjkzUEloUytDZndBNGdRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://rpn1.bozztv.com/inim03/live1/modelinc/<html><head><title>Forbidden</title></head><body>Forbidden</body></html>
