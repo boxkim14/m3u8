@@ -1,4 +1,4 @@
-#EXTINF:0 group-title="2025-05-29 14:59",Model 1
+#EXTINF:0 group-title="2025-05-29 15:28",Model 1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-05-29 14:59",Model 2
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI1IDY6NTk6MzcgUE0maGFzaF92YWx1ZT1vckdObTNucFd6dFZ2NSt2ZXgwbHVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2025-05-29 15:28",Model 2
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI1IDc6Mjg6MjUgUE0maGFzaF92YWx1ZT1kN0I0RHNZTm8xNzFXYmUxbHhWdDFnPT0mdmFsaWRtaW51dGVzPTE0NDA=
