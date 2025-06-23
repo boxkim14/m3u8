@@ -1,4 +1,6 @@
-#EXTINF:0 group-title="2025-06-23 15:06",Model 1
+#EXTINF:0 group-title="2025-06-23 15:36",Model 1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-23 15:06",Model 2
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDc6MDY6NTEgUE0maGFzaF92YWx1ZT00N3FSYjBkeWRRZm1sWm0yclRSWjNnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2025-06-23 15:36",K-Pop
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="2025-06-23 15:36",Model 2
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI1IDc6MzY6NDcgUE0maGFzaF92YWx1ZT1ZUi85NFJaNnRkV2tsczEyVkxwR3RRPT0mdmFsaWRtaW51dGVzPTE0NDA=
