@@ -1,14 +1,14 @@
-#EXTINF:0 group-title="2025-06-24 12:56",Biki Bottom
+#EXTINF:0 group-title="2025-06-24 16:57",Biki Bottom
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 12:56",Model Giniko
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6NTY6NTYgUE0maGFzaF92YWx1ZT1Odm5nUi9xSTcreUxxRkh2VjRpR3lnPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:0 group-title="2025-06-24 12:56",Model Couture
+#EXTINF:0 group-title="2025-06-24 16:57",Model Giniko
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDg6NTc6MzUgUE0maGFzaF92YWx1ZT02NG5MR1h6aEp2SElNTlNiVTNxQXZRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2025-06-24 16:57",Model Couture
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 12:56",Model Chic
+#EXTINF:0 group-title="2025-06-24 16:57",Model Chic
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 12:56",Model Pulse
+#EXTINF:0 group-title="2025-06-24 16:57",Model Pulse
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 12:56",K-Dance
-https://glb.bozztv.com/glb/ushba43/index.m3u8?token=9eee1e2d50f89426136b4448e61031fc
-#EXTINF:0 group-title="2025-06-24 12:56",Biki Top
+#EXTINF:0 group-title="2025-06-24 16:57",K-Dance
+https://glb.bozztv.com/glb/ushba43/index.m3u8?token=0762c4a9d5925d17206ad54f7d847e65
+#EXTINF:0 group-title="2025-06-24 16:57",Biki Top
 https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
