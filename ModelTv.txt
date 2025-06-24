@@ -1,16 +1,14 @@
-#EXTINF:0 group-title="2025-06-24 10:14",K-Dance
-https://glb.bozztv.com/glb/ushba43/index.m3u8?token=ea1b6b51fae8c9ab58438ed3ccb39d4c
-#EXTINF:0 group-title="2025-06-24 10:14",Biki Bottom
+#EXTINF:0 group-title="2025-06-24 12:56",Biki Bottom
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 10:14",Biki Top
-https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 10:14",Miami
-https://rpn3.bozztv.com/dvrfl07/ushba-t7/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDI6MTQ6MzYgUE0maGFzaF92YWx1ZT1KS3NLNkltRnFTa212Y3FiLzVYRXRRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49Mjg=
-#EXTINF:0 group-title="2025-06-24 10:14",Model Giniko
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDI6MTQ6MzcgUE0maGFzaF92YWx1ZT1UNXdHZFVHRm9SUzdjVnBjTjZVWWVRPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:0 group-title="2025-06-24 10:14",Model Couture
+#EXTINF:0 group-title="2025-06-24 12:56",Model Giniko
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6NTY6NTYgUE0maGFzaF92YWx1ZT1Odm5nUi9xSTcreUxxRkh2VjRpR3lnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2025-06-24 12:56",Model Couture
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 10:14",Model Chic
+#EXTINF:0 group-title="2025-06-24 12:56",Model Chic
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-06-24 10:14",Model Pulse
+#EXTINF:0 group-title="2025-06-24 12:56",Model Pulse
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="2025-06-24 12:56",K-Dance
+https://glb.bozztv.com/glb/ushba43/index.m3u8?token=9eee1e2d50f89426136b4448e61031fc
+#EXTINF:0 group-title="2025-06-24 12:56",Biki Top
+https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
