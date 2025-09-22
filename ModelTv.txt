@@ -1,16 +1,16 @@
-#EXTINF:0 group-title="2025-09-22 11:53",00-Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",00-Midnight
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:0 group-title="2025-09-22 11:53",01-Model Giniko Midnight
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1IDM6NTM6NTQgUE0maGFzaF92YWx1ZT02WXJ4UkxvWFBlVEI1bmcxVmt6cndBPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:0 group-title="2025-09-22 11:53",02-Model Chic Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",01-Model Giniko Midnight
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI1IDQ6NTQ6NTQgUE0maGFzaF92YWx1ZT1ldkN0WUR6VGdqQnBPWnFVT3ZVdE1BPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2025-09-22 12:54",02-Model Chic Midnight
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-09-22 11:53",03-Model Couture Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",03-Model Couture Midnight
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-09-22 11:53",04-Biki Bottom Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",04-Biki Bottom Midnight
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-09-22 11:53",05-Model Pulse Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",05-Model Pulse Midnight
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-09-22 11:53",06-K-Dance Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",06-K-Dance Midnight
 https://glb.bozztv.com/glb/ushba43/index.m3u8?token=cd4a650d1d9fc491004a01108c23f54c
-#EXTINF:0 group-title="2025-09-22 11:53",Biki Top Midnight
+#EXTINF:0 group-title="2025-09-22 12:54",Biki Top Midnight
 https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
