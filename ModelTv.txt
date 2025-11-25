@@ -1,18 +1,18 @@
-#EXTINF:0 group-title="2025-11-25 13:22",00-Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",00-Midnight
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",00-Midnight-IPTV
+#EXTINF:0 group-title="2025-11-25 14:23",00-Midnight-IPTV
 https://raw.githubusercontent.com/boxkim14/m3u8/refs/heads/main/Movie.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",01-Model Giniko Midnight
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyNSA2OjIyOjA4IFBNJmhhc2hfdmFsdWU9V2hCT09WZWx0VEF5cDlUU0kycm5iZz09JnZhbGlkbWludXRlcz0xNDQw
-#EXTINF:0 group-title="2025-11-25 13:22",02-Model Chic Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",01-Model Giniko Midnight
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyNSA3OjI0OjAwIFBNJmhhc2hfdmFsdWU9ZkFabWpYbmc1VHd2dkJWNlEzdEVGQT09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:0 group-title="2025-11-25 14:23",02-Model Chic Midnight
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",03-Model Couture Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",03-Model Couture Midnight
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",04-Biki Bottom Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",04-Biki Bottom Midnight
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",05-Model Pulse Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",05-Model Pulse Midnight
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-11-25 13:22",06-K-Dance Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",06-K-Dance Midnight
 https://glb.bozztv.com/glb/ushba43/index.m3u8?token=ea1b6b51fae8c9ab58438ed3ccb39d4c
-#EXTINF:0 group-title="2025-11-25 13:22",07-Vibe Midnight
+#EXTINF:0 group-title="2025-11-25 14:23",07-Vibe Midnight
 https://glb.bozztv.com/glb/ushba61/index.m3u8
