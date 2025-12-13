@@ -1,18 +1,18 @@
-#EXTINF:0 group-title="2025-12-12 18:12",00-Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",00-Midnight@D-1
 http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",00-Midnight-IPTV@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",00-Midnight-IPTV@D-1
 https://raw.githubusercontent.com/boxkim14/m3u8/refs/heads/main/Movie.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",01-Model Giniko Midnight@D-1
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxMToxMjoyNiBQTSZoYXNoX3ZhbHVlPVE2MmREK2JtVHlDcE1ibUJGdzExbFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==
-#EXTINF:0 group-title="2025-12-12 18:12",02-Model Chic Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",01-Model Giniko Midnight@D-1
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyNSAyOjQyOjMyIEFNJmhhc2hfdmFsdWU9VmYwdlVpU2pXRDJobFdWVzhHdm5Kdz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:0 group-title="2025-12-12 21:42",02-Model Chic Midnight@D-1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",03-Model Couture Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",03-Model Couture Midnight@D-1
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",04-Biki Bottom Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",04-Biki Bottom Midnight@D-1
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",05-Model Pulse Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",05-Model Pulse Midnight@D-1
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2025-12-12 18:12",06-K-Dance Midnight@D-1
-https://glb.bozztv.com/glb/ushba43/index.m3u8?token=ea1b6b51fae8c9ab58438ed3ccb39d4c
-#EXTINF:0 group-title="2025-12-12 18:12",07-Vibe Midnight@D-1
+#EXTINF:0 group-title="2025-12-12 21:42",06-K-Dance Midnight@D-1
+https://glb.bozztv.com/glb/ushba43/index.m3u8?token=3e375d7baa45f80d4122acac96133f76
+#EXTINF:0 group-title="2025-12-12 21:42",07-Vibe Midnight@D-1
 https://glb.bozztv.com/glb/ushba61/index.m3u8
