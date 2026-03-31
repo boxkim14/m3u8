@@ -1,18 +1,18 @@
-#EXTINF:0 group-title="2026-03-31 07:15",00-Midnight@D-1
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8#EXTINF:0 group-title="2026-03-31 07:15",00-Midnight-IPTV@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",00-Midnight@D-1
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8#EXTINF:0 group-title="2026-03-31 14:15",00-Midnight-IPTV@D-1
 https://raw.githubusercontent.com/boxkim14/m3u8/refs/heads/main/Movie.m3u8
-#EXTINF:0 group-title="2026-03-31 07:15",00-VN-IPTV@D-1
-https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/channels.m3u#EXTINF:0 group-title="2026-03-31 07:15",01-Model Giniko Midnight@D-1
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDI2IDExOjE1OjA3IEFNJmhhc2hfdmFsdWU9SXpCaEJBOUZuK3g1TnRUTnYwNTdTQT09JnZhbGlkbWludXRlcz0xNDQw
-#EXTINF:0 group-title="2026-03-31 07:15",02-Model Chic Midnight@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",00-VN-IPTV@D-1
+https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/channels.m3u#EXTINF:0 group-title="2026-03-31 14:15",01-Model Giniko Midnight@D-1
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDI2IDY6MTU6MzUgUE0maGFzaF92YWx1ZT04UGtObDZuWTZaSzJMdWRoWUs0OEZnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2026-03-31 14:15",02-Model Chic Midnight@D-1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-03-31 07:15",03-Model Couture Midnight@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",03-Model Couture Midnight@D-1
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-03-31 07:15",04-Biki Bottom Midnight@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",04-Biki Bottom Midnight@D-1
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-03-31 07:15",05-Model Pulse Midnight@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",05-Model Pulse Midnight@D-1
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-03-31 07:15",06-K-Dance Midnight@D-1
-https://glb.bozztv.com/glb/ushba43/index.m3u8?token=374957c53aace47cbf06ec8d3f3d0aff
-#EXTINF:0 group-title="2026-03-31 07:15",07-Vibe Midnight@D-1
+#EXTINF:0 group-title="2026-03-31 14:15",06-K-Dance Midnight@D-1
+https://glb.bozztv.com/glb/ushba43/index.m3u8?token=14b450fd3d3aee53f2d05b77c8ed948c
+#EXTINF:0 group-title="2026-03-31 14:15",07-Vibe Midnight@D-1
 https://glb.bozztv.com/glb/ushba61/index.m3u8
