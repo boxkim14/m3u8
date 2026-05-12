@@ -1,12 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="media/audio/eng/index_audio_eng.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Deutsch",LANGUAGE="deu",DEFAULT=NO,AUTOSELECT=NO,URI="media/audio/ger/index_audio_ger.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Francais",LANGUAGE="fra",DEFAULT=NO,AUTOSELECT=NO,URI="media/audio/fre/index_audio_fre.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Espanol",LANGUAGE="spa",DEFAULT=NO,AUTOSELECT=NO,URI="media/audio/spa/index_audio_spa.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Nederlands",LANGUAGE="nld",DEFAULT=NO,AUTOSELECT=NO,URI="media/audio/dut/index_audio_dut.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Portugues",LANGUAGE="por",DEFAULT=NO,AUTOSELECT=NO,URI="media/audio/por/index_audio_por.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://hakunamatata5.org/lewis/WPpcvEzSFgiIuyOXkeMtdDlNC/PRcwJlTgByuaFQrOnXhdtkvDp/media/audio/eng/index_audio_eng.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1300000,RESOLUTION=854x480,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="audio_0"
 #EXTVLCOPT:http-referrer=https://hakunamatata5.org/lewis/PogzeVkRiUHpJIlqZKGvfNDaW.html
-https://hakunamatata5.org/lewis/WPpcvEzSFgiIuyOXkeMtdDlNC/PRcwJlTgByuaFQrOnXhdtkvDpmedia/video/480/index_video_480.m3u8
+https://hakunamatata5.org/lewis/WPpcvEzSFgiIuyOXkeMtdDlNC/PRcwJlTgByuaFQrOnXhdtkvDp/media/video/480/index_video_480.m3u8
