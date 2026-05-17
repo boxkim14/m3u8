@@ -1,20 +1,20 @@
-#EXTINF:0 group-title="2026-05-15 07:17",00-Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",00-Midnight@D-1
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",00-Midnight-IPTV@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",00-Midnight-IPTV@D-1
 https://raw.githubusercontent.com/boxkim14/m3u8/refs/heads/main/Movie.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",00-VN-IPTV@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",00-VN-IPTV@D-1
 https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/channels.m3u
-#EXTINF:0 group-title="2026-05-15 07:17",01-Model Giniko Midnight@D-1
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI2IDExOjE3OjUyIEFNJmhhc2hfdmFsdWU9R3lOdllJOHV0R0RJVFRKak82MFc0QT09JnZhbGlkbWludXRlcz0xNDQw
-#EXTINF:0 group-title="2026-05-15 07:17",02-Model Chic Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",01-Model Giniko Midnight@D-1
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI2IDE6MDk6NDUgQU0maGFzaF92YWx1ZT1VR05oenN4c055OTkvdHg5aG1xVkR3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:0 group-title="2026-05-16 21:09",02-Model Chic Midnight@D-1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",03-Model Couture Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",03-Model Couture Midnight@D-1
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",04-Biki Bottom Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",04-Biki Bottom Midnight@D-1
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",05-Model Pulse Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",05-Model Pulse Midnight@D-1
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-05-15 07:17",06-K-Dance Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",06-K-Dance Midnight@D-1
 https://glb.bozztv.com/glb/ushba43/index.m3u8?token=370986cdf3dd203f166f7666f65ebd03
-#EXTINF:0 group-title="2026-05-15 07:17",07-Vibe Midnight@D-1
+#EXTINF:0 group-title="2026-05-16 21:09",07-Vibe Midnight@D-1
 https://glb.bozztv.com/glb/ushba61/index.m3u8
