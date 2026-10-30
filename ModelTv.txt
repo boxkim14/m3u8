@@ -1,24 +1,24 @@
-#EXTINF:0 group-title="2026-10-30 09:14",00-Midnight@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",00-Midnight@D-1
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",00-Midnight-IPTV@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",00-Midnight-IPTV@D-1
 https://raw.githubusercontent.com/boxkim14/m3u8/refs/heads/main/Movie.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",00-VN-IPTV@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",00-VN-IPTV@D-1
 https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/channels.m3u
-#EXTINF:0 group-title="2026-10-30 09:14",01-Model Giniko@D-1
-https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxOjE0OjMwIFBNJmhhc2hfdmFsdWU9MGlpdEJLbGZmRmIzY3lVeTB1bVpLUT09JnZhbGlkbWludXRlcz0xNDQw
-#EXTINF:0 group-title="2026-10-30 09:14",02-Model Chic@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",01-Model Giniko@D-1
+https://rpn1.bozztv.com/inim03/live1/modelinc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAzOjU1OjE4IFBNJmhhc2hfdmFsdWU9cWlHWTFtamd2NXI5Zm9PNjRnN2Yzdz09JnZhbGlkbWludXRlcz0xNDQw
+#EXTINF:0 group-title="2026-10-30 11:55",02-Model Chic@D-1
 https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",03-Model Couture@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",03-Model Couture@D-1
 https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",04-Biki Bottom@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",04-Biki Bottom@D-1
 https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",05-Model Pulse@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",05-Model Pulse@D-1
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="2026-10-30 09:14",05-Model Miami@D-1
-https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxOjA5OjM0IFBNJmhhc2hfdmFsdWU9WkxyM0tWZld5MUwwNDVLV1Z2Mzl1dz09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTI4
-#EXTINF:0 group-title="2026-10-30 09:14",05-Miami TV@D-1
-https://tgn.bozztv.com/trn03/gin-miamitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxOjA5OjM0IFBNJmhhc2hfdmFsdWU9VU4wdUZZU3M2bGEycmlaMldrOE9WZz09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTE3
-#EXTINF:0 group-title="2026-10-30 09:14",06-K-Dance Midnight@D-1
-https://glb.bozztv.com/glb/ushba43/index.m3u8?token=ea1b6b51fae8c9ab58438ed3ccb39d4c
-#EXTINF:0 group-title="2026-10-30 09:14",07-Vibe Midnight@D-1
+#EXTINF:0 group-title="2026-10-30 11:55",05-Model Miami@D-1
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAzOjUwOjIwIFBNJmhhc2hfdmFsdWU9Y2hRZk1EWE5EQlkwbUdHd3hmZUJKQT09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTI4
+#EXTINF:0 group-title="2026-10-30 11:55",05-Miami TV@D-1
+https://tgn.bozztv.com/trn03/gin-miamitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAzOjUwOjIxIFBNJmhhc2hfdmFsdWU9cG02ck15MlF6V2ZUMmI1V3o3bUdSQT09JnZhbGlkbWludXRlcz0xNDQ1JnN0cm1fbGVuPTE3
+#EXTINF:0 group-title="2026-10-30 11:55",06-K-Dance Midnight@D-1
+https://glb.bozztv.com/glb/ushba43/index.m3u8?token=1c71924f9d3ccdf6dfa6d78c4acb99e2
+#EXTINF:0 group-title="2026-10-30 11:55",07-Vibe Midnight@D-1
 https://glb.bozztv.com/glb/ushba61/index.m3u8
